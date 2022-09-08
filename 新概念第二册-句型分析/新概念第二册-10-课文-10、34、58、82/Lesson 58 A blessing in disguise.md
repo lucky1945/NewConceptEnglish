@@ -1,5 +1,5 @@
 ```
-The tiny village of Frinley is said/被动语态/ to possess/pəˈzes/ a 'cursed tree'.
+The tiny village of Frinley is said to possess/pəˈzes/ a 'cursed tree'.
   - simple sentence:
   	- the tiny village of Frinly 
   	- is said {to do} [passive form of verb]
@@ -44,7 +44,7 @@ It is said that if anyone touches the tree, he will have bad luck; if he picks a
   - knowledge:
   	- 主语 + be said + 表示据说....  = it is said that 
 
-Many villagers believe that the tree has already claimed a number of victims.
+Many villagers believe that the tree has already claimed a number of victims/ˈvɪktɪm/.
   - complex sentence:
   	- main clause:
     	- many villagers believe that + object clause
