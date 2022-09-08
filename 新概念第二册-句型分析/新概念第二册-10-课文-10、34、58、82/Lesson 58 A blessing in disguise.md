@@ -3,7 +3,7 @@ The tiny village of Frinley is said/被动语态/ to possess/pəˈzes/ a 'cursed
   - simple sentence:
   	- the tiny village of Frinly 
   	- is said {to do} [passive form of verb]
-  	- to possess a 'cursed tree' [infinitve phrase object]
+  	- to possess a 'cursed tree' [infinitive phrase object]
 
 Because the tree was mentioned in newspaper, the number of visitors/ˈvɪzɪtə(r)/ to Frinley has now increased.
   - complex sentence:
@@ -15,18 +15,18 @@ Because the tree was mentioned in newspaper, the number of visitors/ˈvɪzɪtə(
         	- was mentioned [predicate verb][passive form of verb]
         	- in newspaper [adverbial of place]
   	- main clause:
-    	- the numebr of visitors to Frinley has now increased
-      	- the number ofvisitors to Frinley
+    	- the number of visitors to Frinley has now increased
+      	- the number of visitors to Frinley
       	- has increased [predicate verb][present perfect]
       	- now [adverbial of time of predicate verb]
 
-The tree was planted near the church fifity years ago, but it is only in recent years that it has gained/ɡeɪnd/ an evil/ˈiːv(ə)l/ reputation.
+The tree was planted near the church fifty years ago, but it is only in recent years that it has gained/ɡeɪnd/ an evil/ˈiːv(ə)l/ reputation.
   - compound sentence:
-  	- the tree was planted near the church fifity years ago
+  	- the tree was planted near the church fifty years ago
     	- the tree 
     	- was planted
     	- near the church 
-    	- fifity years ago
+    	- fifty years ago
   	- but
   	- it is only in recent years that it has gained an evil reputation 只是在最近几年，它才获得了一个坏名声 
     	- it has gained an evil reputation
@@ -54,7 +54,7 @@ Many villagers believe that the tree has already claimed a number of victims.
   	- subordinate clause:
     	- the tree has already claimed a number of victims
       	- the tree [subject]
-      	- alreday
+      	- already
       	- has claimed [predicate verb][present perfect]
       	- a number of victims [object]
   - knowledge:
@@ -98,7 +98,7 @@ He has pointed out that the tree is a useful source of income, as tourists/ˈtʊ
   	- subordinate clause:
     	- as tourists have been coming from all parts of the country to see it
       	- as + adverbial clause of time
-      	- tourists have been coming from all parts of the counrty to see it
+      	- tourists have been coming from all parts of the country to see it
         	- tourists 
         	- have been coming {prepositional object} [predicate verb phrase][present perfect progressive]
         	- from all parts of the country [object]
@@ -127,7 +127,7 @@ In spite of all that has been said, the tourists have been picking leaves and cu
       	- leaves [object]
       - and
     	- the tourists have been cutting their name on the tree-trunk
-      	- the trousits [subject]
+      	- the tourists [subject]
       	- have been cuttings 
       	- their name [object]
       	- on the tree-trunk [adverbial of place] 
@@ -173,12 +173,13 @@ So far, not one of them has been struck down by sudden death!
   ○ His uncle was struck down by cancer.
 ● it 
   ○ it 先行词 强调结构。
-    ■ but it is only in recetny years that it has gained an evil reputation.
+    ■ but it is only in recently years that it has gained an evil reputation.
     ■ It is + 被强调的部分 + that/who/whom  + 从句
   ○ it 主语从句
 ● mention v. 提及
   ○ Don't mention the problem at the meeting.
-  ○ Don't metion it.
+  ○ Don't mention it.
 ● so far 到目前为止
 ● point out 指出
+
 ```

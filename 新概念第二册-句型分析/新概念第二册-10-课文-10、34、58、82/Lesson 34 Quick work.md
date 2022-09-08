@@ -1,4 +1,5 @@
 ```
+
 Dan/dæn/ Robinson/ˈrɑbɪnsən/ has been worried/ˈwʌrid/ all week.
   - simple sentence:
   	- Dam Robinson [subject]
@@ -12,11 +13,11 @@ Last Tuesday/ˈtjuːzdeɪ/ he received a letter from the local police/pəˈliːs
   	- he [subject]
     - received [predicate verb][past tense]
   	- a letter [object]
-    - from the local police [adverbical of place of predciate verb]
+    - from the local police [adverbial of place of predciate verb]
 
 In the letter he was asked to call at the station.
   - simple sentence:
-  	- in the letter [adverbical of manner][preposition]
+  	- in the letter [adverbial of manner][preposition]
   	- he [subject]
   	- was asked to do [predicate verb phrase][passive form of verb]
   	- to call at the station [infinitive][object]
@@ -61,7 +62,7 @@ At the station, he was told by a smiling policeman that his bicycle had been fou
 
 Five days ago, the policeman told him, the bicycle was picked up in small village four hundred miles away.
   - complex sentence:
-  	- five days ago [adverbical of time]
+  	- five days ago [adverbial of time]
     - the policeman [subject]
   	- told him that the bicycle was picked up in small village four hundred miles away
     	- told sb that + object clause
@@ -80,7 +81,7 @@ It is now being sent to his home by train.
   	- It [subject]
     - is being sent {prepositional objective phrase} [predicate verb phrase][passive form of verb][present progressive]
     - to his home [prepositional objective phrase]
-  	- by trian [adverbial of manner]
+  	- by train [adverbial of manner]
 
 Dan was most surprised when he heard the news.
   - complex sentence:
@@ -98,7 +99,7 @@ Dan was most surprised when he heard the news.
 	- knowledge:
     - most + adj., 构成形容词最高级形式
 
-He was amused/əˈmjuːzd/ too, becuase he never expected/ɪkˈspektɪd/ the bicycle to be found.
+He was amused/əˈmjuːzd/ too, because he never expected/ɪkˈspektɪd/ the bicycle to be found.
   - complex sentence:
   	- main clause: 
       - He was amused too,
@@ -123,7 +124,7 @@ It was stolen/ˈstəʊlən/ twenty years ago when Dan was a boy of fifteen!
     	- It was stolen twenty years ago
       	- It [subject]
         - was stolen [predicate verb phrase][passive form of verb][past tense]
-      	- twenty yeaers ago [adverbial of time of prdicate verb]
+      	- twenty years ago [adverbial of time of predicate verb]
   	- subordinate clause:
     	- when Dan was a boy of fifteen!
       	- when + adverbial clause of time
@@ -146,7 +147,7 @@ New words and expressions
 ● amused  /əˈmjuːzd/ adj. 被逗乐的，觉得好笑的
 ● expected /ɪkˈspektɪd/adj. 预料的，预期的
 Notes on the text
-● the locl police.
+● the local police.
 ● call at 拜访， 也可以用 call on
   ○ call at a neigghbor's house.
   ○ call at Mr.Johonson's office.
@@ -165,4 +166,5 @@ Notes on the text
 ● pick up 偶然获得
   ○ Jim picked up that paiting in a small shop.
 ● be being done 现在进行时的被动语态
+
 ```

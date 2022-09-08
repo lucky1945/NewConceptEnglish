@@ -25,7 +25,7 @@ Our/ɑː(r)/ clavichord is kept/kept/ in the living room.
   - simple sentence:
   	- our clavichord [subject]
   	- is kept [predicate verb][passive]
-  	- in the living room [adverbial of palce of the predicate verb]
+  	- in the living room [adverbial of place of the predicate verb]
 
 It has belonged to our family for a long time. 
   - simple sentence:
@@ -53,31 +53,31 @@ She tried to play jazz on it.
   	- she [subject]
   	- tried to do [predicate verb phrase]
   	- to play jazz [to do]
-  	- on it [adverbical of place]
+  	- on it [adverbial of place]
 	- knowledge:
   	- try + to + do. + (sth.)
 			v. 试着...; 尽力...
 
-She strunk the keys too hard and two of the strings were broken.
+She struck the keys too hard and two of the strings were broken.
   - compound sentence:
-  	- she strunk the keys too hard
+  	- she struck the keys too hard
     	- she [subject]
     	- struck [predicate verb]
     	- the keys [object]
-    	- too hard [adverbical of manner of predicate verbs]
+    	- too hard [adverbial of manner of predicate verbs]
   	- and
   	- two of the strings were broken
     	- two of the strings [subject]
     	- were broken [predicate verb][passive form of verb][past tense]
 
-My fater was shocked/ʃɒkt/. 
+My father was shocked/ʃɒkt/. 
   - simple sentence:
-  	- my fater [subject]
-  	- was shocked [predciate verb phrase][passive form of verb][past tense]
+  	- my father [subject]
+  	- was shocked [predicate verb phrase][passive form of verb][past tense]
 
 Now we are not allowed to touch it.
   - simple sentence:
-    - now [adverbical of time][prepostion]
+    - now [adverbial of time][prepostion]
   	- we [subject]
   	- are not allowed [predicate verb phrase][passive form of verb][present tense]
     - to touch it [infinitive][object]
@@ -89,14 +89,14 @@ It is being repaired/rɪˈpeəd/ by a friend of my father's.
   - simple sentence:
   	- It [subject]
   	- is being repaired [predicate verb phrase][present progressive][passive form of verb]
-  	- by a friend of my father's [advercial of manner of predicate verb]
+  	- by a friend of my father's [adverbial of manner of predicate verb]
     	- of my father's [attribute]
   - knowledge:
   	- a + friend + of + sth.
   		n. ...的朋友
 
 Notes on the text
-● a firend of my father's 我父亲的一位朋友。通常用's和of结构来表示所有格。
+● a friend of my father's 我父亲的一位朋友。通常用's和of结构来表示所有格。
   ○ 's的结构通常用在人名和表示人称的名词的末尾，而of结构则常与无生命的名词连用。
   ○ 同时使用's和of叫做双重所有格。
 ```
