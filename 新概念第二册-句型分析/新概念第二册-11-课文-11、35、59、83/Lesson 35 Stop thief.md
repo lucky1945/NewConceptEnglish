@@ -1,9 +1,42 @@
 ```
-Roy/rɔɪ/ Trenton/ˈtrentən/ used to drived a taxi.
+
+Roy/rɔɪ/ Trenton/ˈtrentən/ used to drive a taxi.
+- simple sentence:
+  - Roy Treton [subject]
+  - used to drive [predicate verb phrase][complex structure]
+  - a taxi [object]
+- knowledge:
+  - used + to + do. + (sth.)
+    v. (过去)常常...
+    v. (not)不常...
+    v. (never)从来没有..., 从未...
 
 A short while age, however, he became/bɪˈkeɪm/ a bus driver and he has not regretted/rɪˈɡretɪd/ it.
+- complex sentence:
+  - a short while ago [prepositional adverbial of time]
+  - however
+  - he became a bus driver 
+    - he [subject]
+    - became [link verb]
+    - a bus driver [predicative]
+  - and
+  - he has not regretted it
+    - he [subject]
+    - has not regretted [predicate verb phrase][present perfect tense]
+    - it [object]
+- knowledge:
+  - a short while ago
+    不久前
 
 He is finding his new work far more exciting.
+- simple sentence:他发现他的新工作令人兴奋得多。
+  - He [subject]
+  - is finding [predicate verb phrase][present progressive tense]
+  - his new work [indirect object]
+  - far more exciting [direct object]
+- knowldege:
+  - find + sth.① + sth.②
+    vt. 为...找到...; 发现...是...
 
 When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.
 
@@ -24,7 +57,7 @@ Shortly afterwards, the police stopped/stɒpt/ the car and both men were arreste
 New words and expressions
 ● while n. 一段时间
   ○ a period of time
-  ○ a short while age. 不久前
+  ○ a short while ago. 不久前
   ○ for a while 持续了一段时间
   ○ conj. 当...的时候
 ● regret v 后悔
@@ -63,4 +96,5 @@ Notes on the text
     ■ so adv
 ● shorty afterwards. 没过多久。
 ● come out of 从什么出来
+
 ```
