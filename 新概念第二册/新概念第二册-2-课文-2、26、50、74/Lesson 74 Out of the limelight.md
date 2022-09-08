@@ -1,3 +1,4 @@
+```
 An ancient/ˈeɪnʃənt/ bus stopped/stɒpt/ by a dry/draɪ/ river bed and a party of famous actors/ˈæktəz/ and actresses/ˈæktrɪsɪz/ got off.
   - 并列句
     - An ancient bus stopped by a dry river bed
@@ -150,3 +151,4 @@ He looked very angry.
   ○ Why doesn't he come with us?
 ● Meanwhile = in the meantime
 ● be hard on
+```
