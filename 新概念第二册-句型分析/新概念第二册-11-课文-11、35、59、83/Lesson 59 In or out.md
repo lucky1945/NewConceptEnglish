@@ -1,28 +1,231 @@
 ```
-Our dog, Rex, used to sit out side our front gate and bark.
+
+Our dog, Rex, used to sit outside our front gate and bark.
+- compound sentence:
+  - Our dog used to sit outside our front gate
+    - Our dog, Rex [subject]
+    - used to sit [predicate verb] 
+    - outside our front gate [adverbial of place]
+  - and
+  - Our dog used to bark
+    - Our dog
+    - used to bark
+- knowledge:
+  - used + to + do. + (sth.)
+    v. (过去)常常...
+    v. (not)不常...
+    v. (never)从来没有..., 从未...
 
 Every time he wanted to come/kʌm/ into the garden he would bark until someone opened the gate.
+- complex sentence:
+  - main clause:
+    - he would bark until someone opened the gate
+      - he would bark 
+        - he [subject]
+        - would bark [predicate verb]
+      - until + adverbial clause [adverbial clause]
+        - someone opened the gate
+  - subordinate clause:
+    - every time he wanted to come into the garden [adverbial of time]
+      - every time [sth]
+      - he wanted to come into the garden [attributive clause]
+        - he [subject]
+        - wanted {to do} [predicate verb phrase]
+        - to come into the garden [to do as object]
+- knowledge:
+  - want + to + do. + (sth.)
+    v. 想要...(做某事)
+  - come + into + sth.
+    v. 进入, 得到, 继承
 
-As the neighbours complained of the noise, my husband spent weeks training him to press his paw/pɔː/ on the latch to let himself in.
+As the neighbours complained/kəmˈpleɪn/ of the noise, my husband spent weeks training him to press his paw/pɔː/ on the latch to let himself in.
+- complex sentence:
+  - subordinate clause:
+    - as the neighbours complained of the noise [adverbial of time]
+      - as + clause
+      - the neighbours complained of the noise
+        - the neighbours [subject]
+        - compolained of [predicate verb]
+        - the noise [object]
+  - main clause:
+    - my husband spent weeks training him to press his paw on the latch to let himself in
+      - my husband 
+      - spent sth. doing sth. [predicate verb phrase]
+      - week [subject]
+      - training him to press his paw on the latch to let himself in [doing]
+        - training sb to do sth [verb]
+        - him [direct subject]
+        - press his paw on the latch to let himself in [do]
+          - press sth on sb [verb]
+          - his paw [subject]
+          - on the latch [adverbial]
+          - to let himself in [adverbial of purpose]
+- knowledge:
+  - complain + of + sth.
+    v. 抱怨...
+  - spend + sth.① + doing. + (sth.)
+    v. 花费...(某物)...(做某事); 消耗...(某物)...(做某事)
+  - train + sb. + to + do. + (sth.)
+  - press + sth. + on + sb.
 
 Rex soon became an expert at opening the gate.
+- simple sentence:
+  - Rex [subject]
+  - soon [adverb]
+  - become [link verb]
+  - an export at opening the gate [predicative][noun]
+- knowledge:
+  - expert + at + sth.
+    n. 善于
 
 However, when I was going out shopping last week, I noticed him in the garden near the gate.
+- complex sentence:
+  - however
+  - subordinate clause:
+    - when i was going out shopping last week 
+      - when + clause
+      - I was going out shopping last week
+        - I [subject]
+        - was going out [predicate verb phrase][past progressive tense]
+        - shopping [accompany adverbial]
+        - last week [adverbial of time]
+  - main clause:
+    - I noticed him in the garden near the gate
+      - I [subject]
+      - noticed [verb]
+      - him [object]
+      - in the garden neat the gate [adverbial of place]
+        - nate the gate [attributive]
+- knowledge:
+  - 动词(或动词短语) + 现在分词作伴随状语, 两者同时发生
+  - go + out
+    v. 出去, 熄灭, 过时, 辞职, 倒塌, 罢工
 
 This time he was barking so that someone would let him out!
+- simple sentence:
+  - main clause:
+    - this time he was barking 
+      - this time [adverbial of time]
+      - he was barking
+        - he [subject]
+        - was barking [predicate verb phrase][past progressive tense]
+  - subordinate clause:
+    - so that someone would let him out
+      - so that + adverbial of purpose
+        - someone would let him out
+          - someone [subject]
+          - would let sth out [predicate verb phrase]
+          - him [object]
+- knowledge:
+  - ● This time he was barking so that someone would let him out.
+    ○ so that 引导结果状语从句
+    ○ so that 引导目的状语从句，从句中有情态动词
+    ○ so ... that ... 引导结果状语从句，太...怎么样
+  - let + sth. + out
+    vt. 放掉(水/气), 泄露, 放大(衣服), 解雇, 放学, 散场, 表达, 发出(声音), 出租, 喘气
 
 Since then, he has developed another bad habit.
+- simple sentence:
+  - since then 
+  - he has developed another bad habit
+    - he [subject]
+    - has developed [predicate verb phrase][presente perfect tense]
+    - another bad habit [object]
+- knowledge:
+  - since + then
+    prep. 从那以来, 从此
+  - develop + a + habit
+    v. 养成一个习惯
+  - a + bad + habit
+    n. 坏习惯; 恶习  
 
 As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.
+- complex sentence:
+  - subordinate clause:
+    - as soon as he opens the gate from the outside [adverbial clause]
+      - as soon as + clause
+      - he opens the gate from the outside
+        - he [subject]
+        - opens [verb]
+        - the gate [object]
+        - from the outside [adverbial of place]
+  - main clause:
+    - he comes into the garden and waits until the gate shuts
+      - he comes into the garden
+        - he [subject]
+        - comes into [predicate verb phrase]
+        - the garden [object]
+      - and 
+      - he waits until the gate shuts
+        - he [subject]
+        - waits [predicate verb]
+        - until the gate shuts [adverbial clause of time]
 
-Then  he sits and barks until someone lets him out.
+Then he sits and barks until someone lets him out.
+- complex sentence:
+  - then [adverb of time]
+  - he sits
+  - and
+  - he barks until someone lets him out
+    - he [subject]
+    - barks [predicate verb]
+    - until someone lets him out
+      - until + adverbial clause
+      - someone lets him out
+        - someone [subject]
+        - lets sth out [verb phrase]
+        - him [object]
+- knowledge:
+  - let + sth. + out
+    vt. 放掉(水/气), 泄露, 放大(衣服), 解雇, 放学, 散场, 表达, 发出(声音), 出租, 喘气
 
 After this he immediately lets himself in and begins barking again.
+- compound sentence:
+  - after this 
+  - he immediately lets himself in 
+    - he 
+    - immediately
+    - lets sth. in
+    - himself
+  - and 
+  - he begins barking again
+    - he [subject]
+    - begins {doing} [verb phrase]
+    - barking again [doing]
+      - again
+- knowledge:
+  - after + this
+    prep. 此后
+  - begin + doing. + (sth.)
+    v. 开始...(做某事)
+  - again adv.
+    再一次；复原；<非正式>请再说一遍；不过，然而（then again）；增加，多
 
 Yesterday my husband removed the gate and Rex got so annoyed (that) we have not seen him since.
+- complex sentence:
+  - Yesterday [adverbial of time]
+  - my husband removed the gate
+    - my husband [subject]
+    - removed [predicate verb]
+    - the gate
+  - and
+  - Rex got so annoyed we have not seen him since
+    - Rex got so annoyed that + clause [adverbial clause of result]
+      - Rex [subject]
+      - got [link verb]
+      - so annoyed [adjective]
+      - that + we have not seen him since
+        - we [subject]
+        - have not seen [predicate verb phrase] [present perfect tense]
+        - him [object]
+        - since [adverbial]
+- knowledge:
+  - so + adj. + (that) + 结果状语从句
+  - get + adj.
+    v. 逐渐变得...
+
 
 ● used to do 过去常常做某事
-● 介词后只能接 名词、代词、动名词
 ● complained of sth. 抱怨什么
 ● spend + sth.  + on sth / doing sth.
 ● train sb. to do sth.
@@ -44,14 +247,15 @@ Yesterday my husband removed the gate and Rex got so annoyed (that) we have not 
   ○ remove sb. from sth. 免去某人职务
   ○ remove sth. from sth. 清除某物
 ● every time he wanted to come into the garden he would bark until some opened the gate
-  ○ every time he wated to come into the garden
+  ○ every time he wanted to come into the garden
   ○ he would bark
-  ○ someone opend the gate
+  ○ someone opened the gate
 ● he soon became an expert at opening the gate.
   ○ be expert at
   ○ be good at
   ○ be proficient in
 ● develop a bad / good habit
+
 ● 表示目的：
   ○ 词组：主语一致
     ■ to do
@@ -60,15 +264,13 @@ Yesterday my husband removed the gate and Rex got so annoyed (that) we have not 
   ○ 句子：状语从句，从句中有情态动词。
     ■ so that + 句子
     ■ in order that + 句子	
-    ■ 目的状语从句的用法：
-      ● 英语里表示目的的方法：
-        ○ 动词不定式做目的状语：
-          ■ I come here to pick up my son.
-        ○ 目的状语从句主要由 that、so that、in order that、lest、for fear that、in case
-          ■ Let's take the fron seats that we may see more clearly.
-        ○ 目的状语从句有时可用so或者so that引起
-        ○ 目的状语与不定式的转换
-          ■ 英语中的目的状语从句，还可以变为不定式，或者不定式短语做状语，从而在句子结构上得到简化。
-            ● we'll start early in order that we may arrive in time
-            ● we'll start eraly in order to arrive in time.
+  ● 英语里表示目的的方法：
+    ○ 动词不定式做目的状语：
+      ■ I come here to pick up my son.
+    ○ 目的状语从句主要由 that、so that、in order that、lest、for fear that、in case
+    ○ 目的状语从句有时可用so或者so that引起
+    ○ 目的状语与不定式的转换
+      ■ 英语中的目的状语从句，还可以变为不定式，或者不定式短语做状语，从而在句子结构上得到简化。
+        ● we'll start early in order that we may arrive in time
+        ● we'll start early in order to arrive in time.
 ```
