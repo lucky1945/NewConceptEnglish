@@ -58,7 +58,7 @@ When he asked if Mr.Lane lived there, the policeman on duty told him that since 
                     - the ex-Prime Minister 
                     - had gone abroad
 
-On the following day, patrick went to the house again.
+On the following day, Patrick went to the house again.
 - simple sentence:
     - On the following day [adverbial of time]
     - Patrick [subject]
