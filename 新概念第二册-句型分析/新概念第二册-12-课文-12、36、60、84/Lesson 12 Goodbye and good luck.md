@@ -87,8 +87,8 @@ We are very proud of him.
 He will take part in an important race[reɪs] across the Atlantic.
 - simple sentence:
     - He [subject]
-    - will take part in [predicate verb phrase][simple future tense]
-    - a important race across the Atlantic [object]
+    - will take part {propositional objective phrase} [predicate verb phrase][simple future tense]
+    - in a important race across the Atlantic [object]
         - across the Atlantic [attributive]
 
 
