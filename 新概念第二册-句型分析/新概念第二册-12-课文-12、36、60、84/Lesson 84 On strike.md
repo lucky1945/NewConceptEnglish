@@ -17,7 +17,7 @@ The strike is due to begin on Tuesday/ˈtjuːzdeɪ/.
     - the strike [subject]
     - is due to do [predicate verb phrase]
     - to begin [object]
-    - on Tuesday [adverbial of time]
+    - on Tuesday [time adverbial]
 - knowledge:
     - be. + due + to + do. + (sth.)
         v. 被期望..., 被规划..., 按理..., 按期..., 按规划...
@@ -64,7 +64,7 @@ Most people believe that the strike will last for at least a week.
     - the strike will last for a at least a week
         - the strike [subject]
         - will last [predicate verb phrase][simple future tense]
-        - for at least a week [adverbial of time]
+        - for at least a week [time adverbial]
 - knowledge:
     - believe + (that) 引导的宾语从句
         vt. 相信...; 对...信以为真; 以为...; 认为..., 料想...; 猜想...
@@ -110,7 +110,7 @@ Meanwhile, a number of university students have volunteered/ˌvɒlənˈtɪə(r)/
     - a number of university students [subject]
     - have volunteered [predicate verb phrase]
     - to drive buses [adverbial of purpose]
-    - while the strike lasts [adverbial of time]
+    - while the strike lasts [time adverbial]
         - the strike [subject]
         - lasts [verb]
 
@@ -145,7 +145,7 @@ The students are going to take the test in two days' time.
     - to take the test in two days' time
         - take [verb]
         - the test [object]
-        - in two days' time [adverbial of time]
+        - in two days' time [time adverbial]
 - knowledge:
     - be. + going + to + do. + (sth.)
         v. (主观)[将要/打算/计划]...(做某事); (客观)[将/要]...(发生某事)
@@ -166,7 +166,7 @@ Even so, people are going to find it difficult to get to work.
 
 But so far, the public has expressed its gratitude/ˈɡrætɪtjuːd/ to the students in letters to the Press.
 - simple sentence: 公众已经写信给新闻界表达了对学生们的感激之情
-    - But so far 截止到目前为止 [adverbial of time]
+    - But so far 截止到目前为止 [time adverbial]
     - the public [subject]
     - has expressed sth to sth [predicate verb phrase][present perfect tense]
     - its gratitude [object]

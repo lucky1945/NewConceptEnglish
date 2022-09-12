@@ -2,7 +2,7 @@
 
 At a village fair/feə(r)/, I decided to visit a fortune-teller called Madam Bellinsky.
 - complex sentence:
-    - at a village fair [adverbial of place]
+    - at a village fair [place adverbial]
     - I [subject]
     - decided to do [predicate verb phrase]
     - to visit a fortune-teller called Madam Bellinsky
@@ -46,7 +46,7 @@ After I had given her some money, she looked into crystal/ˈkrɪstl/ ball/bɔːl
 A relation/rɪˈleɪʃn/ of yours is coming to see you. 
 - simple sentence:
     - a relation of yours [subject]
-    - is coming to do [predicate verb phrase][present progressive tense]
+    - is coming to do [predicate verb phrase][present continuous tense]
     - to see you
 - knowledge:
     - a + relation + of + sth.
@@ -58,15 +58,15 @@ She will be arriving this evening and intends to stay for a few days.
 - compound sentence:
     - she will be arriving this evening 
         - she [subject]
-        - will be arriving [predicate verb phrase][simple future progressive tense]
-        - this evening [adverbial of time]
+        - will be arriving [predicate verb phrase][simple future continuous tense]
+        - this evening [time adverbial]
     - and 
     - she intends to stay for a few days.
         - she [subject]
         - intends to do 
         - to stay for a few days
             - stay [verb]
-            - for a few days [adverbial of time]
+            - for a few days [time adverbial]
 - knowledge:
     - intend + to + do. + (sth.)
         v. 打算...(做某事)
@@ -111,7 +111,7 @@ She will speak to you and then she will lead you away from this place.
         - she 
         - will lead [predicate verb]
         - you [object]
-        - away from this place [adverbial of place]
+        - away from this place [place adverbial]
 - knowledge:
     - lead + sth.① + away + from + sth.②
 
@@ -120,7 +120,7 @@ That is all.
 
 As soon as I went outside, I forget all about Madam bellinsky because my wife hurried towards me.
 - complex sentence:
-    - As soon as I went outside [adverbial of time]
+    - As soon as I went outside [time adverbial]
         - as soon as 
         - I went outside
             - I 
@@ -148,7 +148,7 @@ As soon as I went outside, I forget all about Madam bellinsky because my wife hu
         - Your sister [subject]
         - will be [be verb]
         - here [object]
-        - in less than an hour [adverbial of time]
+        - in less than an hour [time adverbial]
     - and 
     - We must be at the station to meet her.
         - We [subject]
@@ -172,7 +172,7 @@ As she walked away, I followed her out of the fair.
         - I 
         - followed [predicate verb]
         - her [object]
-        - out of the fair [adverbial of place]
+        - out of the fair [place adverbial]
 - knowledge:
     - walk + away
         v. 走开, 离开; 脱身; 逃避; 一

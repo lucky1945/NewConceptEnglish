@@ -13,12 +13,12 @@ Because the tree was mentioned in newspaper, the number of visitors/ˈvɪzɪtə(
       	- the tree was mentioned in newspaper
         	- the tree
         	- was mentioned [predicate verb][passive form of verb]
-        	- in newspaper [adverbial of place]
+        	- in newspaper [place adverbial]
   	- main clause:
     	- the number of visitors to Frinley has now increased
       	- the number of visitors to Frinley
       	- has increased [predicate verb][present perfect]
-      	- now [adverbial of time of predicate verb]
+      	- now [time adverbial of predicate verb]
 
 The tree was planted near the church fifty years ago, but it is only in recent years that it has gained/ɡeɪnd/ an evil/ˈiːv(ə)l/ reputation.
   - compound sentence:
@@ -100,7 +100,7 @@ He has pointed out that the tree is a useful source of income, as tourists/ˈtʊ
       	- as + adverbial clause of time
       	- tourists have been coming from all parts of the country to see it
         	- tourists 
-        	- have been coming {prepositional object} [predicate verb phrase][present perfect progressive]
+        	- have been coming {prepositional object} [predicate verb phrase][present perfect continuous]
         	- from all parts of the country [object]
         	- to see it [adverbial of purpose]
   - knowledge:
@@ -123,14 +123,14 @@ In spite of all that has been said, the tourists have been picking leaves and cu
   	- the tourists have been picking leaves and cutting their name on the tree-trunk
       - the tourists have been picking leaves
       	- the tourists 
-      	- have been picking [present perfect progressive][predicate verb phrase]
+      	- have been picking [present perfect continuous][predicate verb phrase]
       	- leaves [object]
       - and
     	- the tourists have been cutting their name on the tree-trunk
       	- the tourists [subject]
       	- have been cuttings 
       	- their name [object]
-      	- on the tree-trunk [adverbial of place] 
+      	- on the tree-trunk [place adverbial] 
   - knowledge:
   	- have + been. + doing.
   		v. (完成进行时); 一直在...(做某事)
@@ -139,7 +139,7 @@ In spite of all that has been said, the tourists have been picking leaves and cu
 
 So far, not one of them has been struck down by sudden death!
   - simple sentence:
-  	- so far [adverbial of time]
+  	- so far [time adverbial]
   	- not one of them has been struck down by sudden death	
     	- not one of them [subject]
     	- has been struck down [passive form verb][predicate verb phrase]

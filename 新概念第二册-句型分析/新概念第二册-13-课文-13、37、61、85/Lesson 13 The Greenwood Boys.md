@@ -1,9 +1,24 @@
 ```
+
 The Greenwood/ˈɡriːnwʊd/ Boys are a group of pop singers/ˈsɪŋəz/.
+- simple sentence:
+    - The Greenwood Boys [subject]
+    - are [be verb]
+    - a group of pop singers [predicative][noun]
 
 At/ət/ present, they are visiting all parts of the country.
+- simple sentence:目前，他们正在访问全国各地。
+    - At present [time adverbial]
+    - they [subject]
+    - are visiting [predicate verb phrase][present continuous tense]
+    - all parts of the country 
 
-They will be arriving here tommorrow.
+They will be arriving here tomorrow.
+- simple sentence:
+    - They [subject]
+    - will be arriving [future continuous tense]
+    - here [object]
+    - tomorrow [time adverbial]
 
 They will be coming by train and most of the young people in the town will be metting them at the station.
 

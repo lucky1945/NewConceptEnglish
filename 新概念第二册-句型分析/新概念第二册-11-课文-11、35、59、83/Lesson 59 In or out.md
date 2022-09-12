@@ -5,7 +5,7 @@ Our dog, Rex, used to sit outside our front gate and bark.
   - Our dog used to sit outside our front gate
     - Our dog, Rex [subject]
     - used to sit [predicate verb] 
-    - outside our front gate [adverbial of place]
+    - outside our front gate [place adverbial]
   - and
   - Our dog used to bark
     - Our dog
@@ -26,7 +26,7 @@ Every time he wanted to come/kʌm/ into the garden he would bark until someone o
       - until + adverbial clause [adverbial clause]
         - someone opened the gate
   - subordinate clause:
-    - every time he wanted to come into the garden [adverbial of time]
+    - every time he wanted to come into the garden [time adverbial]
       - every time [sth]
       - he wanted to come into the garden [attributive clause]
         - he [subject]
@@ -41,7 +41,7 @@ Every time he wanted to come/kʌm/ into the garden he would bark until someone o
 As the neighbours complained/kəmˈpleɪn/ of the noise, my husband spent weeks training him to press his paw/pɔː/ on the latch to let himself in.
 - complex sentence:
   - subordinate clause:
-    - as the neighbours complained of the noise [adverbial of time]
+    - as the neighbours complained of the noise [time adverbial]
       - as + clause
       - the neighbours complained of the noise
         - the neighbours [subject]
@@ -86,15 +86,15 @@ However, when I was going out shopping last week, I noticed him in the garden ne
       - when + clause
       - I was going out shopping last week
         - I [subject]
-        - was going out [predicate verb phrase][past progressive tense]
+        - was going out [predicate verb phrase][past continuous tense]
         - shopping [accompany adverbial]
-        - last week [adverbial of time]
+        - last week [time adverbial]
   - main clause:
     - I noticed him in the garden near the gate
       - I [subject]
       - noticed [verb]
       - him [object]
-      - in the garden neat the gate [adverbial of place]
+      - in the garden neat the gate [place adverbial]
         - nate the gate [attributive]
 - knowledge:
   - 动词(或动词短语) + 现在分词作伴随状语, 两者同时发生
@@ -105,10 +105,10 @@ This time he was barking so that someone would let him out!
 - simple sentence:
   - main clause:
     - this time he was barking 
-      - this time [adverbial of time]
+      - this time [time adverbial]
       - he was barking
         - he [subject]
-        - was barking [predicate verb phrase][past progressive tense]
+        - was barking [predicate verb phrase][past continuous tense]
   - subordinate clause:
     - so that someone would let him out
       - so that + adverbial of purpose
@@ -148,7 +148,7 @@ As soon as he opens the gate from the outside, he comes into the garden and wait
         - he [subject]
         - opens [verb]
         - the gate [object]
-        - from the outside [adverbial of place]
+        - from the outside [place adverbial]
   - main clause:
     - he comes into the garden and waits until the gate shuts
       - he comes into the garden
@@ -203,7 +203,7 @@ After this he immediately lets himself in and begins barking again.
 
 Yesterday my husband removed the gate and Rex got so annoyed (that) we have not seen him since.
 - complex sentence:
-  - Yesterday [adverbial of time]
+  - Yesterday [time adverbial]
   - my husband removed the gate
     - my husband [subject]
     - removed [predicate verb]

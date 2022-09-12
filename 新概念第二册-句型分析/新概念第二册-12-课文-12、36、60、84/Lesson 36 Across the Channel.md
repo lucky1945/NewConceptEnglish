@@ -6,7 +6,7 @@ Debbie Hart is going to swim across the English Channel tomorrow.
     - to swim across the English Channel tomorrow [object]
         - swim [verb]
         - across the English Channel [object]
-        - tomorrow [adverbial of time]
+        - tomorrow [time adverbial]
 - knowledge:
     - be. + going + to + do. + (sth.)
         v. (主观)[将要/打算/计划]...(做某事); (客观)[将/要]...(发生某事)
@@ -22,8 +22,8 @@ She is going to set out from the French coast at five o'clock in the morning.
     - is going to do [predicate verb phrase][simple future tense]
     - to set out from the French coast at five o'clock in the morning
         - set out [verb]
-        - from the French coast [adverbial of place]
-        - at five o'clock in the morning [adverbial of time]
+        - from the French coast [place adverbial]
+        - at five o'clock in the morning [time adverbial]
 - knowledge:
     - set + out + from + sp.
 
@@ -67,7 +67,7 @@ Debbie's father will set out with her in a small boat.
     - Debbie's father [subject]
     - will set out [predicate verb phrase][simple future tense]
     - with her [accompany adverbial]
-    - in a small boat [adverbial of place]
+    - in a small boat [place adverbial]
 - knowledge:
     - set + out
         v. 出发, 开始, 陈列, 宣布, 陈述, 栽种, 设计...的布局, 测定
@@ -77,18 +77,18 @@ Mr.Hart has trained his daughter for years.
     - Mr.Hart [subject]
     - has trained [predicate verb phrase][present perfect tense]
     - his daughter [object]
-    - for years [adverbial of time]
+    - for years [time adverbial]
 - knowledge:
     - for + years
         prep. 好多年, 多年以来
 
 Tomorrow he will be watching her anxiously/ˈæŋkʃəsli/ as she swims the long distance to England.
 - complex sentence:
-    - Tomorrow [adverbial of time]
+    - Tomorrow [time adverbial]
     - main clause:
         - he will be watching her anxiously
             - he [subject]
-            - will be watching [predicate verb phrase][simple future progressive tense]
+            - will be watching [predicate verb phrase][simple future continuous tense]
             - her [object]
             - anxiously [manner adverbial]
     - subordinate clause:
@@ -107,7 +107,7 @@ Debbie intends to take short rests every two hours.
     - to take short rests every two hours [to do]
         - take rests [verb phrase]
         - short [frequently adverb]
-        - every two hours [adverbial of time]
+        - every two hours [time adverbial]
 - knowledge:
     - intend + to + do. + (sth.)
         v. 打算...(做某事)
@@ -132,7 +132,7 @@ Most of Debbie's school friends will be waiting for her on the English coast.
     - Most of Debbie' school friends [subject]
     - will be waiting for [predicate verb phrase][simple future tense]
     - her [object]
-    - on the English coast [adverbial of place]
+    - on the English coast [place adverbial]
 - knowledge:
     - on + the + coast
         prep. 在岸上, 沿岸

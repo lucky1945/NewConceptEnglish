@@ -5,9 +5,9 @@ I was having dinner/ˈdɪnə(r)/ at a restaurant/ˈrestrɒnt/ when Tony/ˈtəʊn
         - main clause:
             - I was having dinner at a restaurant
                 - I [subject]
-                - was having [predicate verb][complex structure][past progressive tense]
+                - was having [predicate verb][complex structure][past continuous tense]
                 - dinner [object]
-                - at a restaurant [adverbial of place of verb]
+                - at a restaurant [place adverbial]
         - subordinate clause:
             - when Tony Steel came in
                 - when + adverbial clause of time
@@ -24,13 +24,13 @@ Tony worked in a lawyer's office years ago, but he is now working at a bank.
         - Tony worked in a lawyer's office years ago
             - Tony [subject]
             - worked [verb][past tense]
-            - in a lawyer's office [adverbial of place]
-            - years ago [adverbial of time]
+            - in a lawyer's office [place adverbial]
+            - years ago [time adverbial]
         - but [conjunction]
         - he is now working at a bank 
             - he [subject]
-            - is working [verb phrase][complex structure][present progressive tense]
-            - now [adverbial of verb]
+            - is working [verb phrase][complex structure][present continuous tense]
+            - now [adverbial]
     - knowledge:
         - ... + year + ago
             adv. (在)...年前
@@ -70,7 +70,7 @@ Tony saw me and came and sat at the same table.
         - Tony sat at the same table
             - Tony [subject]
             - sat [predicate verb]
-            - at the same table [adverbial of place]
+            - at the same table [place adverbial]
     - knowledge:
         - 动词 + and + 动词，共享主语
 
@@ -91,7 +91,7 @@ While he was eating, I asked him to lend me twenty pounds.
             - while + adverbial clause of time
             - he was eating
                 - he [subject]
-                - was eating [past progressive tense]
+                - was eating [past continuous tense]
         - main clause:
             - I asked him to lend me twenty pounds.
                 - I [subject]
@@ -115,7 +115,7 @@ To my surprise, he gave me the money immediately.
             - gave [verb]
             - me [indirect object]
             - the money [direct object]
-            - immediately [adverbial of verb]
+            - immediately [adverbial]
     - knowledge:
         - to + one's + surprise
             prep. 让...惊讶的是, 使...吃惊的是

@@ -5,7 +5,7 @@ Fishermen and sailors/ˈseɪlə(r)/ sometimes claim/kleɪm/ to have seen monster
   	- sometimes [frequency adverbial]
   	- claim to do [verb]
   	- to have seen monsters [to do]
-  	- in the sea [adverbial of place]
+  	- in the sea [place adverbial]
   - knowledge:
   	- claim + to + do. + (sth.)
   	- in + the + sea
@@ -24,7 +24,7 @@ Though people have often laughed at stories told by sea-men, it is now know that
   	- main clause:
     	- it is now know that many of these 'monsters' which have at times been sighted are simply starnge fish.
       	- it is know that + object clause
-      	- now [adverbial of time]
+      	- now [time adverbial]
       	- many of these 'monsters' which have at times been sighted are simply strange fish.
         	- main clause:
           	- many of these 'monsters' are simply strange fish			
@@ -64,11 +64,11 @@ Occasionally, unusual creatures/ˈkriːtʃə(r)/ are washed/wɒʃt/ to the shore
 
 Some time ago, however, a peculiar/pɪˈkjuːliə(r)/ fish was caught near Madagascar.
   - simple sentence:
-  	- some time ago [adverbial of time]
+  	- some time ago [time adverbial]
   	- however
   	- a peculiar fish [subject]
   	- was caught [passive form of verb]
-  	- near Madagascar [adverbial of place]
+  	- near Madagascar [place adverbial]
 
 A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line.
   - complex sentence:
@@ -76,7 +76,7 @@ A small fishing boat was carried miles out to sea by the powerful fish as it pul
     	- a small fishing boat
     	- was carried [predicate verb][passive form of verb]
     	- milles [subject]
-  		- out to sea [adverbial of place of verb]
+  		- out to sea [place adverbial]
   		- by the powerful fish [adverbial of manner of verb]
   	- subordinate clause:
     	- as it pulled on the line
@@ -114,7 +114,7 @@ When it was eventually bruoght to shore, it was found to be over thirteen feet l
     	- it was eventually brought to shore
       	- it 
       	- was brought [past tense][passive form of verb]
-      	- eventually [adverbial of verb]
+      	- eventually [adverbial]
       	- to shore [prepositional objective phrase]
   	- main clause:
     	- it was found to be over thirteen feet long
@@ -123,7 +123,7 @@ When it was eventually bruoght to shore, it was found to be over thirteen feet l
       	- to be over thirteen feet long
         	- be [be verb]
   				- long [object]
-        	- over thirteen [adverbial of verb]
+        	- over thirteen [adverbial]
   - knowledge:
   	- bring + sth.① + to + sth.②
   	- find + sth. + to + be. + ...
@@ -147,8 +147,8 @@ The fish, which has since been sent to a museum where it is begin examined by a 
       	- where it is begin examined by a scientist [attribute cluase]
         	- it [object]
         	- is examined [passive form of verb]
-        	- begin [adverbial of verb]
-        	- by a scientist [adverbial of verb]
+        	- begin [adverbial]
+        	- by a scientist [adverbial]
   	- it called an oarfish
     	- it [subejct]
     	- called [verb][past tense]

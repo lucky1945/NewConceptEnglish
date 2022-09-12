@@ -5,15 +5,15 @@ Dan/dæn/ Robinson/ˈrɑbɪnsən/ has been worried/ˈwʌrid/ all week.
   	- Dam Robinson [subject]
   	- has been [be verb phrase][present prefect] 
   	- worried [predicative][adjective]
-  	- all week [adverbial of time of predicate verb]
+  	- all week [time adverbial of predicate verb]
 
 Last Tuesday/ˈtjuːzdeɪ/ he received a letter from the local police/pəˈliːs/.
   - simple sentence:
-  	- Last Tuesday [adverbial of time][preposition]
+  	- Last Tuesday [time adverbial][preposition]
   	- he [subject]
     - received [predicate verb][past tense]
   	- a letter [object]
-    - from the local police [adverbial of place of predciate verb]
+    - from the local police [place adverbial of predciate verb]
 
 In the letter he was asked to call at the station.
   - simple sentence:
@@ -37,7 +37,7 @@ Dan wondered/ˈwʌndə(r)/ why he was wanted/ˈwɒntɪd/ by the police, but he w
       	- he [subject]
       	- went to [predicate verb phrase]
         - the station [object]
-      	- yesterday [adverbial of time]
+      	- yesterday [time adverbial]
   	- and
   	- now he is not worried anymore
     	- he [subject]
@@ -47,7 +47,7 @@ Dan wondered/ˈwʌndə(r)/ why he was wanted/ˈwɒntɪd/ by the police, but he w
 
 At the station, he was told by a smiling policeman that his bicycle had been found.
   - complex sentence:
-  	- at the station [adverbial of place][preposition]
+  	- at the station [place adverbial][preposition]
   	- he was told by a smiling policeman that his bicycle had been found
       - he [subject]
       - was told [predicate verb phrase][passive form of verb][past tense]
@@ -62,7 +62,7 @@ At the station, he was told by a smiling policeman that his bicycle had been fou
 
 Five days ago, the policeman told him, the bicycle was picked up in small village four hundred miles away.
   - complex sentence:
-  	- five days ago [adverbial of time]
+  	- five days ago [time adverbial]
     - the policeman [subject]
   	- told him that the bicycle was picked up in small village four hundred miles away
     	- told sb that + object clause
@@ -71,7 +71,7 @@ Five days ago, the policeman told him, the bicycle was picked up in small villag
       	- the bicycle was picked up in small village four hundred miles away
         	- the bicycle 
         	- was picked up [predicate verb phrase][passive form of verb][past tense]
-        	- in small village four hundred miles away [adverbial of place of predicate verb]
+        	- in small village four hundred miles away [place adverbial of predicate verb]
   - knowledge:
   	- pick + up + sth.
   		vt. 掘地, 捡起, 获得, 学会, 看到, 中途带, 搭乘, 重新找到, 振作, 加快, 好转, 整理
@@ -79,7 +79,7 @@ Five days ago, the policeman told him, the bicycle was picked up in small villag
 It is now being sent to his home by train.
   - simple sentence:
   	- It [subject]
-    - is being sent {prepositional objective phrase} [predicate verb phrase][passive form of verb][present progressive]
+    - is being sent {prepositional objective phrase} [predicate verb phrase][passive form of verb][present continuous]
     - to his home [prepositional objective phrase]
   	- by train [adverbial of manner]
 
@@ -124,7 +124,7 @@ It was stolen/ˈstəʊlən/ twenty years ago when Dan was a boy of fifteen!
     	- It was stolen twenty years ago
       	- It [subject]
         - was stolen [predicate verb phrase][passive form of verb][past tense]
-      	- twenty years ago [adverbial of time of predicate verb]
+      	- twenty years ago [time adverbial of predicate verb]
   	- subordinate clause:
     	- when Dan was a boy of fifteen!
       	- when + adverbial clause of time

@@ -4,15 +4,15 @@ The former/ˈfɔːmə(r)/ Prime/praɪm/ Minister/ˈmɪnɪstə(r)/, Mr.Wentworth 
     - The former Prime Minister was defeated in the recent elections
         - the former Prime Minister [subject]
         - was defeated [predicate verb][passive form of verb]
-        - in the recent elections [adverbial of place]
+        - in the recent elections [place adverbial]
 
 He is now retiring from political/pəˈlɪtɪk(ə)l/ life and has gone abroad/əˈbrɔːd/.
 - compound sentence:
     - He is now retiring from political life 他现在正退出政界
         - He [subject]
         - now [adverbial]
-        - is retiring [predicate verb phrase][present progressive tense]
-        - from political life [adverbial of place]
+        - is retiring [predicate verb phrase][present continuous tense]
+        - from political life [place adverbial]
     - and
     - He has gone abroad 
         - He [subject]
@@ -24,15 +24,15 @@ He is now retiring from political/pəˈlɪtɪk(ə)l/ life and has gone abroad/ə
     - go + abroad
         v. 出国
     
-My friend, Patrick, has always been a fanatical/fəˈnætɪkl/ opponent/əˈpəʊnənt/ of Mr.Lane's Radial Progressive Party.
+My friend, Patrick, has always been a fanatical/fəˈnætɪkl/ opponent/əˈpəʊnənt/ of Mr.Lane's Radial continuous Party.
 - simple sentence:  
     - My friend [subject]
     - has always been [predicate verb phrase][present perfect tense]
-    - a fanatical opponent of Mr.Lane's Radial Progressive Party [object]
+    - a fanatical opponent of Mr.Lane's Radial continuous Party [object]
 
 After the elections, Patrick/ˈpætrɪk/ went to the former Prime Minister's house.
 - simple sentence:
-    - after the elections [adverbial of time]
+    - after the elections [time adverbial]
     - Patrick [subject]
     - went to [predicate verb phrase]
     - the former Prime Minister's house [object]
@@ -53,14 +53,14 @@ When he asked if Mr.Lane lived there, the policeman on duty told him that since 
             - told sb that clause [predicate verb phrase]
             - him [direct object]
             - that since his default, the ex-Prime Minister had gone abroad
-                - since his default [adverbial of time]
+                - since his default [time adverbial]
                 - the ex-Prime Minister had gone abroad
                     - the ex-Prime Minister 
                     - had gone abroad
 
 On the following day, Patrick went to the house again.
 - simple sentence:
-    - On the following day [adverbial of time]
+    - On the following day [time adverbial]
     - Patrick [subject]
     - went to sth. [predicate verb]
     - the house [object]
@@ -76,7 +76,7 @@ The same policeman was just walking slowly past the entrance, when Patrick asked
     - main clause:
         - The same policeman was just walking slowly past the entrance
             - The same policeman [subject]
-            - was just walking slowly [predicate verb phrase][past progressive tense]
+            - was just walking slowly [predicate verb phrase][past continuous tense]
             - past the entrance [adverbial of manner]
     - subordinate clause:
         - when Patrick asked the same question
@@ -106,7 +106,7 @@ The day after, Patrick went to the house once more and asked exactly the same qu
         - Patrick [subject]
         - went to [predicate verb]
         - the house [object]
-        - once more [adverbial of verb]
+        - once more [adverbial]
     - and
     - Patrick asked exactly the same question 
         - Patrick [subject]
@@ -116,7 +116,7 @@ The day after, Patrick went to the house once more and asked exactly the same qu
 
 This time, the policeman lost his temper.
 - simple sentence:
-    - This time [adverbial of time]
+    - This time [time adverbial]
     - the policeman [subject]
     - lost [predicate verb]
     - his temper [object]
@@ -136,11 +136,11 @@ This time, the policeman lost his temper.
     - Mr.Lane was defeated in the elections.
         - Mr.Lane [subject]
         - was defeated [passive form of verb][past tense]
-        - in the elections [adverbial of place]
+        - in the elections [place adverbial]
     - He has retired from political life
         - He [subject]
         - has retired from [predicate verb phrase][present perfect tense]
-        - political life [adverbial of place]
+        - political life [place adverbial]
     - and
     - He has gone to live abroad 他到国外去住了
         - He [subject]

@@ -5,15 +5,15 @@ Our[ɑː(r)] neighbour, Captain Charles/tʃɑːlz/ Alison[ˈælɪsən], will sai
     - Our neighbour, Captain Charles Alison [subject]
     - will sail {prepositional objective phrase} [predicate verb]
     - from Portsmouth [prepositional objective phrase]
-    - tomorrow [adverbial of time]
+    - tomorrow [time adverbial]
 
 We'll meet him at the harbour/ˈhɑːbə(r)/ early in the morning.
 - simple sentence:
     - we [subject]
     - will meet [predicate verb][simple future tense]
     - him [object]
-    - at the harbour [adverbial of place]
-    - early in the morning [adverbial of time]
+    - at the harbour [place adverbial]
+    - early in the morning [time adverbial]
 - knowledge:
     - early + prep. + st.
         adv. 在...的早些时候
@@ -45,7 +45,7 @@ Captain Alison will set out at eight o'clock, so we'll have plenty of time.
     - Captain Alison will set out at eight o'clock
         - Captain Alison [subject]
         - will set out [predicate verb phrase][simple future tense]
-        - at eight o'clock [adverbial of time]
+        - at eight o'clock [time adverbial]
     - so we'll have plenty of time
         - so
         - we [subject]
@@ -70,7 +70,7 @@ He will be away for two months.
     - He [subject]
     - will be [be verb][simple future tense]
     - away [predicative]
-    - for two months [adverbial of time]
+    - for two months [time adverbial]
 - knowledge:
     - be. + away
         v. 离开; 不在, 缺席

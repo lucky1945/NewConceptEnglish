@@ -13,7 +13,7 @@ Roy/rɔɪ/ Trenton/ˈtrentən/ used to drive a taxi.
 
 A short while age, however, he became/bɪˈkeɪm/ a bus driver and he has not regretted/rɪˈɡretɪd/ it.
 - complex sentence:
-  - a short while ago [prepositional adverbial of time]
+  - a short while ago [prepositional time adverbial]
   - however
   - he became a bus driver 
     - he [subject]
@@ -31,7 +31,7 @@ A short while age, however, he became/bɪˈkeɪm/ a bus driver and he has not re
 He is finding his new work far more exciting.
 - simple sentence:他发现他的新工作令人兴奋得多。
   - He [subject]
-  - is finding [predicate verb phrase][present progressive tense]
+  - is finding [predicate verb phrase][present continuous tense]
   - his new work [indirect object]
   - far more exciting [direct object]
 - knowledge:
@@ -72,7 +72,7 @@ When he was driving along Catford Street recently, he saw two thieves rush out o
 One of them was carrying a bag full of money.
 - simple sentence:
   - One of them [subject]
-  - was carrying [predicate verb][past progressive tense]
+  - was carrying [predicate verb][past continuous tense]
   - a bag full of money [object]
     - full of money [modifier]
 
@@ -117,7 +117,7 @@ As the thieves were trying to get away in their car, Roy drove his bus into the 
       - as + adverbial clause of time
       - the thieves were trying to get away in their car
         - the thieves [subject]
-        - were trying {to do} [predicate verb phrase][past progressive tense]
+        - were trying {to do} [predicate verb phrase][past continuous tense]
         - to get away in their car [to do]
   - main clause:
     - Roy drove his bus into the back of it
@@ -142,7 +142,7 @@ While the battered car was moving away, Roy stopped/stɒpt/ his bus and telephon
       - while + adverbial clause of time
       - the battered car was moving away
         - the battered car [subject]
-        - was moving away [predicate verb phrase][past progressive tense]
+        - was moving away [predicate verb phrase][past continuous tense]
   - main clause:
     - Roy stopped his bus and telephoned the police
       - Roy stopped his bus
@@ -154,7 +154,7 @@ The thieves' car was badly/ˈbædli/ damaged/ˈdæmɪdʒd/ and easy to recognize
   - The thieves' car was badly damaged 
     - The thieves' car
     - was damaged [passive form of verb][predicate verb phrase]
-    - badly [adverbial of verb]
+    - badly [adverbial]
   - and
   - The thieves' car was easy to recognize
     - The thieves' car

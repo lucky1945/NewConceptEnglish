@@ -15,8 +15,8 @@ It was made in Germany in 1681.
   - simple sentence:
   	- It [subject]
   	- was made [predicate verb][complex structure][passive]
-  	- in Germany [adverbial of place of the predicate verb]
-  	- in 1681 [adverbial of time of the predicate verb]
+  	- in Germany [place adverbial of the predicate verb]
+  	- in 1681 [time adverbial of the predicate verb]
   - knowledge：
   	- make + sth.① + in + sth.②
   		v. 在...制造...
@@ -25,14 +25,14 @@ Our/ɑː(r)/ clavichord is kept/kept/ in the living room.
   - simple sentence:
   	- our clavichord [subject]
   	- is kept [predicate verb][passive]
-  	- in the living room [adverbial of place of the predicate verb]
+  	- in the living room [place adverbial of the predicate verb]
 
 It has belonged to our family for a long time. 
   - simple sentence:
   	- it [subject]
   	- has belonged to [predicate verb phrase][present perfect]
   	- our family [object]
-  	- for a long time [adverbial of time of the predicate verb]
+  	- for a long time [time adverbial of the predicate verb]
 
 The instrument was bought by grandfather many years ago.
   - simple sentence:
@@ -53,7 +53,7 @@ She tried to play jazz on it.
   	- she [subject]
   	- tried to do [predicate verb phrase]
   	- to play jazz [to do]
-  	- on it [adverbial of place]
+  	- on it [place adverbial]
 	- knowledge:
   	- try + to + do. + (sth.)
 			v. 试着...; 尽力...
@@ -77,7 +77,7 @@ My father was shocked/ʃɒkt/.
 
 Now we are not allowed to touch it.
   - simple sentence:
-    - now [adverbial of time][prepostion]
+    - now [time adverbial][prepostion]
   	- we [subject]
   	- are not allowed [predicate verb phrase][passive form of verb][present tense]
     - to touch it [infinitive][object]
@@ -88,7 +88,7 @@ Now we are not allowed to touch it.
 It is being repaired/rɪˈpeəd/ by a friend of my father's.
   - simple sentence:
   	- It [subject]
-  	- is being repaired [predicate verb phrase][present progressive][passive form of verb]
+  	- is being repaired [predicate verb phrase][present continuous][passive form of verb]
   	- by a friend of my father's [adverbial of manner of predicate verb]
     	- of my father's [attribute]
   - knowledge:
