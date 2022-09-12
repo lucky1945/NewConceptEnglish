@@ -16,7 +16,7 @@ The strike is due to begin on Tuesday/ˈtjuːzdeɪ/.
 - simple tense:
     - the strike [subject]
     - is due to do [predicate verb phrase]
-    - begin [object]
+    - to begin [object]
     - on Tuesday [adverbial of time]
 - knowledge:
     - be. + due + to + do. + (sth.)
@@ -47,7 +47,7 @@ The busmen/ˈbʌsmən/ have stated/ˈsteɪtɪd/ that the strike will continue un
         - until + clause [adverbial clause]
     - general agreement is reached about pay and working condition
         - general agreement [subject]
-        - is reached [predicate verb phrase][passive from of verb]
+        - is reached about [predicate verb phrase][passive from of verb]
         - pay and working condition [object]
 - knowledge:
     - state + (that) 引导的宾语从句
