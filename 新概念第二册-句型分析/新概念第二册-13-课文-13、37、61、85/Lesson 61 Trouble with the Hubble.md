@@ -1,8 +1,5 @@
-# 
-
-## First listen and then answer the question
-What is the special importance of a telescope in space?
 ```
+
 The Hubble/ˈhʌbl/ telescope/ˈtelɪskəʊp/ was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars.
 
 Right from the start there was trouble with the Hubble.
@@ -22,14 +19,13 @@ so it will soon be sending us the clearest pictures of the stars and distant gal
 The Hubble will tell us a great deal about the age and size of the universe.
 
 By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.
-```
 
 - the Hubble telescope
 - at a cost of 造价为
 - right from the start, 从最开始。
 - put sth. right 修好、矫正、修复
 - There be + n + 介词短语
-   - There is a gril in the classroom
+   - There is a girl in the classroom
    - There are problems in front of us.
 - 分析句子：
    - 标注化的步骤：
@@ -37,8 +33,8 @@ By the time you read this, the Hubble's eagle eye will have sent us thousands an
       - 标点符号
       - 关键词
       - 分析主谓
-   - The pictures it sent us were very disappointing/ˌdɪsəˈpɔɪntɪŋ/ becuase it main mirror was faulty/ˈfɔːlti/!
-      - becuase it main mirror was faulty
+   - The pictures it sent us were very disappointing/ˌdɪsəˈpɔɪntɪŋ/ because it main mirror was faulty/ˈfɔːlti/!
+      - because it main mirror was faulty
       - The pictures it sent us were very disappointing
          - 主 （主 谓） 谓
             - it sent us 从句
@@ -58,3 +54,6 @@ By the time you read this, the Hubble's eagle eye will have sent us thousands an
    - 将来完成时，考点：
       - by + 时间
       - by the time + 句子
+
+```
+

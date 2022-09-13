@@ -94,7 +94,7 @@ We are all very excited and are looking forward to the Olympic Games because the
             - we [subject]
             - are [be verb]
             - all [adverb]
-            - very excited
+            - very excited [predicative][adjective]
         - and 
         - We are looking to the Olympic Games
             - we [subject]
