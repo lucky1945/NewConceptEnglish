@@ -98,7 +98,7 @@ We are all very excited and are looking forward to the Olympic Games because the
         - and 
         - We are looking to the Olympic Games
             - we [subject]
-            - are looking to [verb phrase][present continuous tense]
+            - are looking forward to [verb phrase][present continuous tense]
             - the Olympic Games
     - subordinate clause;
         - because they have never been held before in this country
@@ -113,6 +113,8 @@ We are all very excited and are looking forward to the Olympic Games because the
         v. 从来不...; 绝不可以...
     - before
         adv. 在以前
+    - look forward to 
+        - 期望、盼望。to是介词，可以接名词、代词、动名词。
 
 - the Olympic Games
 - in four years' time 4年之后
