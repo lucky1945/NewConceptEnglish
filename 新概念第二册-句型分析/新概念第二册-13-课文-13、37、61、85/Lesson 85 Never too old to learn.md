@@ -117,6 +117,11 @@ After he has retired, he will devote/dɪˈvəʊt/ himself to gardening.
         - will devote sb. to sth. [future simple tense]
         - himself [object]
         - to gardening [propositional object phrase]
+     - he will devote himself to gardening
+        - he [subject]
+        - will devote sb. to sth. [future simple tense]
+        - himself [direct object]
+        - gardening [indirect object]
 - knowledge:
     - devote + oneself. + to + sth.
         v. 某人专心于...
