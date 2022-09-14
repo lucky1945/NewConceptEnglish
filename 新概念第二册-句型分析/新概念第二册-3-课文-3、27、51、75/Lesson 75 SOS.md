@@ -17,7 +17,7 @@ When a light passenger plane flew/fluː/ off course/kɔːs/ some time ago, it cr
         - it 
           - subject
         - crashed 
-          - past tense of main verbs
+          - past simple tense of main verbs
         - in the mountains
           - where of main verbs
       - and
@@ -60,13 +60,13 @@ The woman knew that the nearest village was milles away.
         - the woman 
           - subject
         - knew 
-          - past tense of main verb
+          - past simple tense of main verb
         - that + object clause
       - the nearest village was milles away.
         - the nearest village 
           - subject
         - was 
-          - be - verbs - past tense
+          - be - verbs - past simple tense
         - milles away
           - 表语（名词）
 

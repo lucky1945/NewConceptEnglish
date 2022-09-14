@@ -11,7 +11,7 @@ Last Tuesday/ˈtjuːzdeɪ/ he received a letter from the local police/pəˈliːs
   - simple sentence:
   	- Last Tuesday [time adverbial][preposition]
   	- he [subject]
-    - received [predicate verb][past tense]
+    - received [predicate verb][past simple tense]
   	- a letter [object]
     - from the local police [place adverbial of predciate verb]
 
@@ -50,7 +50,7 @@ At the station, he was told by a smiling policeman that his bicycle had been fou
   	- at the station [place adverbial][preposition]
   	- he was told by a smiling policeman that his bicycle had been found
       - he [subject]
-      - was told [predicate verb phrase][passive form of verb][past tense]
+      - was told [predicate verb phrase][passive form of verb][past simple tense]
     	- by a smiling policeman [adverbial of manner]
     	- that + object clause
       	- his bicycle has been found
@@ -70,7 +70,7 @@ Five days ago, the policeman told him, the bicycle was picked up in small villag
     	- that + object clause [indirect object]
       	- the bicycle was picked up in small village four hundred miles away
         	- the bicycle 
-        	- was picked up [predicate verb phrase][passive form of verb][past tense]
+        	- was picked up [predicate verb phrase][passive form of verb][past simple tense]
         	- in small village four hundred miles away [place adverbial of predicate verb]
   - knowledge:
   	- pick + up + sth.
@@ -123,7 +123,7 @@ It was stolen/ˈstəʊlən/ twenty years ago when Dan was a boy of fifteen!
   	- main clause:
     	- It was stolen twenty years ago
       	- It [subject]
-        - was stolen [predicate verb phrase][passive form of verb][past tense]
+        - was stolen [predicate verb phrase][passive form of verb][past simple tense]
       	- twenty years ago [time adverbial of predicate verb]
   	- subordinate clause:
     	- when Dan was a boy of fifteen!

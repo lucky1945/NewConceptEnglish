@@ -45,7 +45,7 @@ Recently it was damaged by a visitor.
   - simple sentence:
   	- Recently [adverbials of time][preposition]
   	- it [subject]
-  	- was damaged [predicate verb phrase][passive form of verb][past tense]
+  	- was damaged [predicate verb phrase][passive form of verb][past simple tense]
   	- by a visitor [adverbial of manner of predicate verbs]
 
 She tried to play jazz on it.
@@ -68,12 +68,12 @@ She struck the keys too hard and two of the strings were broken.
   	- and
   	- two of the strings were broken
     	- two of the strings [subject]
-    	- were broken [predicate verb][passive form of verb][past tense]
+    	- were broken [predicate verb][passive form of verb][past simple tense]
 
 My father was shocked/ʃɒkt/. 
   - simple sentence:
   	- my father [subject]
-  	- was shocked [predicate verb phrase][passive form of verb][past tense]
+  	- was shocked [predicate verb phrase][passive form of verb][past simple tense]
 
 Now we are not allowed to touch it.
   - simple sentence:

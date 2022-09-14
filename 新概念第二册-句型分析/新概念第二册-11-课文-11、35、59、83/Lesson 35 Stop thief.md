@@ -51,7 +51,7 @@ When he was driving along Catford Street recently, he saw two thieves rush out o
   - main clause:
     - he saw two thieves rush out of a shop and run towards a waiting car.
       - he [subject]
-      - saw [verb][past tense]
+      - saw [verb][past simple tense]
       - two thieves rush out of a shop and run towards a waiting car [object clause]
         - two thieves rush out of a shop 
           - two thieves [subject]
@@ -80,12 +80,12 @@ Roy acted quickly and drove the bus straight at the thieves.
 - compound sentence:
   - Roy acted quickly
     - Roy [subject]
-    - acted [predicate verb][past tense]
+    - acted [predicate verb][past simple tense]
     - quickly [adverbial]
   - and
   - Roy drove the bus straight at the thieves
     - Roy [subject]
-    - drove ... {propositional} ... [predicate verb][past tense]
+    - drove ... {propositional} ... [predicate verb][past simple tense]
     - the bus [direct object]
     - straight at the thieves [propositional objective phrase]
 - knowledge:
@@ -98,14 +98,14 @@ The one with the money got such a fright that he dropped/drɒpt/ the bag.
     - The one with the money got such a fright
       - the one with the money [subject]
         - with the money [modifier]
-      - got [link verb][past tense]
+      - got [link verb][past simple tense]
       - a fright [predicative][adjective]
   - subordinate clause:
     - so ... that + he dropped the bag
       - so .. that + adverbial clause
       - he dropped the bag
         - he [subject]
-        - dropped [predicate verb][past tense]
+        - dropped [predicate verb][past simple tense]
         - the bag [object]
 - knowledge:
   - such + 名词、名词词组 + ...that + 结果状语从句... 如此…以至于；太....所以；因果逻辑关系；\
@@ -166,7 +166,7 @@ Shortly afterwards, the police stopped/stɒpt/ the car and both men were arreste
   - Shortly afterwards
   - the police stopped the car
     - the police [subject]
-    - stopped [predicate verb][past tense]
+    - stopped [predicate verb][past simple tense]
     - the car [object]
   - and 
   - both men were arrested

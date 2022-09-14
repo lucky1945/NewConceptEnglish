@@ -23,7 +23,7 @@ Tony worked in a lawyer's office years ago, but he is now working at a bank.
     - compound sentence:
         - Tony worked in a lawyer's office years ago
             - Tony [subject]
-            - worked [verb][past tense]
+            - worked [verb][past simple tense]
             - in a lawyer's office [place adverbial]
             - years ago [time adverbial]
         - but [conjunction]
@@ -95,7 +95,7 @@ While he was eating, I asked him to lend me twenty pounds.
         - main clause:
             - I asked him to lend me twenty pounds.
                 - I [subject]
-                - asked [verb][past tense]
+                - asked [verb][past simple tense]
                 - him [object]
                 - to lend me twenty pounds [object complement]
                     - lend 

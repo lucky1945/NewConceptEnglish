@@ -113,7 +113,7 @@ When it was eventually bruoght to shore, it was found to be over thirteen feet l
     	- when + adverbial clause of time
     	- it was eventually brought to shore
       	- it 
-      	- was brought [past tense][passive form of verb]
+      	- was brought [past simple tense][passive form of verb]
       	- eventually [adverbial]
       	- to shore [prepositional objective phrase]
   	- main clause:
@@ -151,7 +151,7 @@ The fish, which has since been sent to a museum where it is begin examined by a 
         	- by a scientist [adverbial]
   	- it called an oarfish
     	- it [subejct]
-    	- called [verb][past tense]
+    	- called [verb][past simple tense]
     	- an oarfish [object]
 
 Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet.

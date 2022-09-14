@@ -135,7 +135,7 @@ This time, the policeman lost his temper.
 - compound sentence:
     - Mr.Lane was defeated in the elections.
         - Mr.Lane [subject]
-        - was defeated [passive form of verb][past tense]
+        - was defeated [passive form of verb][past simple tense]
         - in the elections [place adverbial]
     - He has retired from political life
         - He [subject]
