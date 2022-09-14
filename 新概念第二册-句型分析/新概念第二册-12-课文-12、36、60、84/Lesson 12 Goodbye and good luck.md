@@ -33,7 +33,7 @@ Topsail is a famous little boat.
 It has sailed across the Atlantic[ətˈlæntɪk] many times.
 - simple sentence:
     - It [subject]
-    - has sailed {propositional objective phrase} [predicate verb phrase][presente perfect tense]
+    - has sailed {propositional objective phrase} [verb phrase][presente perfect tense]
     - across the Atlantic [propositional objective phrase]
     - many times [adverbial]
 - knowledge:
@@ -44,24 +44,24 @@ Captain Alison will set out at eight o'clock, so we'll have plenty of time.
 - simple sentence:
     - Captain Alison will set out at eight o'clock
         - Captain Alison [subject]
-        - will set out [predicate verb phrase][simple future tense]
+        - will set out [verb phrase][simple future tense]
         - at eight o'clock [time adverbial]
     - so we'll have plenty of time
         - so
         - we [subject]
-        - will have [predicate verb phrase][simple future tense]
+        - will have [verb phrase][simple future tense]
         - plenty of time [object]
 
 We'll see his boat and then we'll say goodbye to him.
 - compound sentence:
     - we'll see his boat
         - we [subject]
-        - will see [predicate verb phrase][simple future tense]
+        - will see [verb phrase][simple future tense]
         - his boat [object]
     - and then
     - we'll say goodbye to him
         - we [subject]
-        - will say [predicate verb phrase][simple future tense]
+        - will say [verb phrase][simple future tense]
         - goodbye [object]
         - to him [adverbial of purpose]
 
@@ -87,7 +87,7 @@ We are very proud of him.
 He will take part in an important race[reɪs] across the Atlantic.
 - simple sentence:
     - He [subject]
-    - will take part {propositional objective phrase} [predicate verb phrase][simple future tense]
+    - will take part {propositional objective phrase} [verb phrase][simple future tense]
     - in a important race across the Atlantic [object]
         - across the Atlantic [attributive]
 

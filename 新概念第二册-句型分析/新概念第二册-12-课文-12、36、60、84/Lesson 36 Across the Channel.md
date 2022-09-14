@@ -19,7 +19,7 @@ Debbie Hart is going to swim across the English Channel tomorrow.
 She is going to set out from the French coast at five o'clock in the morning.
 - simple sentence:
     - She [subject]
-    - is going to do [predicate verb phrase][simple future tense]
+    - is going to do [verb phrase][simple future tense]
     - to set out from the French coast at five o'clock in the morning
         - set out [verb]
         - from the French coast [place adverbial]
@@ -65,7 +65,7 @@ She is a strong swimmer and many people feel that she is sure/ʃʊə(r)/ to succ
 Debbie's father will set out with her in a small boat.
 - simple sentence:
     - Debbie's father [subject]
-    - will set out [predicate verb phrase][simple future tense]
+    - will set out [verb phrase][simple future tense]
     - with her [accompany adverbial]
     - in a small boat [place adverbial]
 - knowledge:
@@ -75,7 +75,7 @@ Debbie's father will set out with her in a small boat.
 Mr.Hart has trained his daughter for years.
 - simple sentence:
     - Mr.Hart [subject]
-    - has trained [predicate verb phrase][present perfect tense]
+    - has trained [verb phrase][present perfect tense]
     - his daughter [object]
     - for years [time adverbial]
 - knowledge:
@@ -88,7 +88,7 @@ Tomorrow he will be watching her anxiously/ˈæŋkʃəsli/ as she swims the long
     - main clause:
         - he will be watching her anxiously
             - he [subject]
-            - will be watching [predicate verb phrase][simple future continuous tense]
+            - will be watching [verb phrase][simple future continuous tense]
             - her [object]
             - anxiously [manner adverbial]
     - subordinate clause:
@@ -118,19 +118,19 @@ She will have something to drink but she will not eat any solid/ˈsɒlɪd/ food.
 - compound sentence:
     - she will have something to drink 
         - she [subject]
-        - will have [predicate verb phrase][simple future tense]
+        - will have [verb phrase][simple future tense]
         - something [object]
         - to drink [adverbial of purpose]
     - but 
     - shw will not eat any solid food
         - she [subject]
-        - will not eat [predicate verb phrase]
+        - will not eat [verb phrase]
         - any solid food [object]
 
 Most of Debbie's school friends will be waiting for her on the English coast.
 - simple sentence:
     - Most of Debbie' school friends [subject]
-    - will be waiting for [predicate verb phrase][simple future tense]
+    - will be waiting for [verb phrase][simple future tense]
     - her [object]
     - on the English coast [place adverbial]
 - knowledge:

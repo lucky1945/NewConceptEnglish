@@ -46,14 +46,14 @@ He gets a good salary, but he always borrows money from his friends and never pa
             - He always borrows money from his friends
                 - He [subject]
                 - always [frequently adverb]
-                - borrows sth. from sth. [predicate verb phrase]
+                - borrows sth. from sth. [verb phrase]
                 - money [direct object]
                 - his friends [prepositional object]
             - and
             - He never pays it back
                 - He [subject]
                 - never [frequently adverb]
-                - pays ... back .. [predicate verb phrase]
+                - pays ... back .. [verb phrase]
                 - it [object]
     - knowledge:
         - borrow + sth.① + from + sth.②
@@ -78,7 +78,7 @@ He has never borrowed money from me.
     - simple sentence:
         - He [subject]
         - never [frequently adverb]
-        - has borrowed sth. from sth. [predicate verb phrase][present perfect tense]
+        - has borrowed sth. from sth. [verb phrase][present perfect tense]
         - money [direct object]
         - me [prepositional object]
     - knowledge:
@@ -124,7 +124,7 @@ To my surprise, he gave me the money immediately.
     - simple sentence:
         - I [subject]
         - never [frequently adverb]
-        - have borrowed sth. from sth. [predicate verb phrase][present perfect tense]
+        - have borrowed sth. from sth. [verb phrase][present perfect tense]
         - any money [direct object]
         - you [prepositional object]
 

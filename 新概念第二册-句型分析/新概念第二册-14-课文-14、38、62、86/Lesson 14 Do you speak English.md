@@ -17,8 +17,8 @@ After I had left a small village in the south of France/frɑːns/ .
 I drove on the next town. 
 - simple sentence:
     - I [subject]
-    - drove {propositional phrase} [past simple tense]
-    - on the next town [propositional phrase]
+    - drove {propositional object phrase} [past simple tense]
+    - on the next town [propositional object phrase]
 - knowledge:
     - drive + on + sb.
 

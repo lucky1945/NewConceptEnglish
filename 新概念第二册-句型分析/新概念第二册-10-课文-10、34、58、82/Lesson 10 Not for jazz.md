@@ -30,14 +30,14 @@ Our/ɑː(r)/ clavichord is kept/kept/ in the living room.
 It has belonged to our family for a long time. 
   - simple sentence:
   	- it [subject]
-  	- has belonged to [predicate verb phrase][present perfect]
+  	- has belonged to [verb phrase][present perfect]
   	- our family [object]
   	- for a long time [time adverbial of the predicate verb]
 
 The instrument was bought by grandfather many years ago.
   - simple sentence:
   	- The instrument [subject]
-  	- was bought [predicate verb phrase][passive form of verb]
+  	- was bought [verb phrase][passive form of verb]
   	- by grandfather [adverbials of manner of predicate verbs]
     - many years ago [adverbials of time of predicate verbs]
 
@@ -45,13 +45,13 @@ Recently it was damaged by a visitor.
   - simple sentence:
   	- Recently [adverbials of time][preposition]
   	- it [subject]
-  	- was damaged [predicate verb phrase][passive form of verb][past simple tense]
+  	- was damaged [verb phrase][passive form of verb][past simple tense]
   	- by a visitor [adverbial of manner of predicate verbs]
 
 She tried to play jazz on it.
   - simple sentence:
   	- she [subject]
-  	- tried to do [predicate verb phrase]
+  	- tried to do [verb phrase]
   	- to play jazz [to do]
   	- on it [place adverbial]
 	- knowledge:
@@ -73,13 +73,13 @@ She struck the keys too hard and two of the strings were broken.
 My father was shocked/ʃɒkt/. 
   - simple sentence:
   	- my father [subject]
-  	- was shocked [predicate verb phrase][passive form of verb][past simple tense]
+  	- was shocked [verb phrase][passive form of verb][past simple tense]
 
 Now we are not allowed to touch it.
   - simple sentence:
     - now [time adverbial][prepostion]
   	- we [subject]
-  	- are not allowed [predicate verb phrase][passive form of verb][present tense]
+  	- are not allowed [verb phrase][passive form of verb][present tense]
     - to touch it [infinitive][object]
 	- knowledge:
   	- allow + sb. + to + do. + (sth.)
@@ -88,7 +88,7 @@ Now we are not allowed to touch it.
 It is being repaired/rɪˈpeəd/ by a friend of my father's.
   - simple sentence:
   	- It [subject]
-  	- is being repaired [predicate verb phrase][present continuous][passive form of verb]
+  	- is being repaired [verb phrase][present continuous][passive form of verb]
   	- by a friend of my father's [adverbial of manner of predicate verb]
     	- of my father's [attribute]
   - knowledge:

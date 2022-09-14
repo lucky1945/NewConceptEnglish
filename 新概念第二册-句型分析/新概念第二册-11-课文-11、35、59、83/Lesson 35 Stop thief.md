@@ -3,7 +3,7 @@
 Roy/rɔɪ/ Trenton/ˈtrentən/ used to drive a taxi.
 - simple sentence:
   - Roy Trenton [subject]
-  - used to drive [predicate verb phrase][complex structure]
+  - used to drive [verb phrase][complex structure]
   - a taxi [object]
 - knowledge:
   - used + to + do. + (sth.)
@@ -22,7 +22,7 @@ A short while age, however, he became/bɪˈkeɪm/ a bus driver and he has not re
   - and
   - he has not regretted it
     - he [subject]
-    - has not regretted [predicate verb phrase][present perfect tense]
+    - has not regretted [verb phrase][present perfect tense]
     - it [object]
 - knowledge:
   - a short while ago
@@ -31,7 +31,7 @@ A short while age, however, he became/bɪˈkeɪm/ a bus driver and he has not re
 He is finding his new work far more exciting.
 - simple sentence:他发现他的新工作令人兴奋得多。
   - He [subject]
-  - is finding [predicate verb phrase][present continuous tense]
+  - is finding [verb phrase][present continuous tense]
   - his new work [indirect object]
   - far more exciting [direct object]
 - knowledge:
@@ -55,7 +55,7 @@ When he was driving along Catford Street recently, he saw two thieves rush out o
       - two thieves rush out of a shop and run towards a waiting car [object clause]
         - two thieves rush out of a shop 
           - two thieves [subject]
-          - rush out of [predicate verb phrase]
+          - rush out of [verb phrase]
           - a shop [object]
         - and 
         - two thieves run towards a waiting car
@@ -117,7 +117,7 @@ As the thieves were trying to get away in their car, Roy drove his bus into the 
       - as + adverbial clause of time
       - the thieves were trying to get away in their car
         - the thieves [subject]
-        - were trying {to do} [predicate verb phrase][past continuous tense]
+        - were trying {to do} [verb phrase][past continuous tense]
         - to get away in their car [to do]
   - main clause:
     - Roy drove his bus into the back of it
@@ -142,7 +142,7 @@ While the battered car was moving away, Roy stopped/stɒpt/ his bus and telephon
       - while + adverbial clause of time
       - the battered car was moving away
         - the battered car [subject]
-        - was moving away [predicate verb phrase][past continuous tense]
+        - was moving away [verb phrase][past continuous tense]
   - main clause:
     - Roy stopped his bus and telephoned the police
       - Roy stopped his bus
@@ -153,7 +153,7 @@ The thieves' car was badly/ˈbædli/ damaged/ˈdæmɪdʒd/ and easy to recognize
 - compound sentence:
   - The thieves' car was badly damaged 
     - The thieves' car
-    - was damaged [passive form of verb][predicate verb phrase]
+    - was damaged [passive form of verb][verb phrase]
     - badly [adverbial]
   - and
   - The thieves' car was easy to recognize

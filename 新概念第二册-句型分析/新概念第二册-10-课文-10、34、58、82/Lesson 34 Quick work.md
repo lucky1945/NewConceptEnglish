@@ -19,7 +19,7 @@ In the letter he was asked to call at the station.
   - simple sentence:
   	- in the letter [adverbial of manner][preposition]
   	- he [subject]
-  	- was asked to do [predicate verb phrase][passive form of verb]
+  	- was asked to do [verb phrase][passive form of verb]
   	- to call at the station [infinitive][object]
 
 Dan wondered/ˈwʌndə(r)/ why he was wanted/ˈwɒntɪd/ by the police, but he went to the station yesterday and now he is not worried anymore.
@@ -35,7 +35,7 @@ Dan wondered/ˈwʌndə(r)/ why he was wanted/ˈwɒntɪd/ by the police, but he w
   	- but
   	- he went to the station yesterday 
       	- he [subject]
-      	- went to [predicate verb phrase]
+      	- went to [verb phrase]
         - the station [object]
       	- yesterday [time adverbial]
   	- and
@@ -50,12 +50,12 @@ At the station, he was told by a smiling policeman that his bicycle had been fou
   	- at the station [place adverbial][preposition]
   	- he was told by a smiling policeman that his bicycle had been found
       - he [subject]
-      - was told [predicate verb phrase][passive form of verb][past simple tense]
+      - was told [verb phrase][passive form of verb][past simple tense]
     	- by a smiling policeman [adverbial of manner]
     	- that + object clause
       	- his bicycle has been found
         	- his bicycle
-        	- has been found [predicate verb phrase][passive form of verb][complex structure][present prefect]
+        	- has been found [verb phrase][passive form of verb][complex structure][present prefect]
 	- knowledge:
     - at + the + station
 			prep. 在车站
@@ -70,7 +70,7 @@ Five days ago, the policeman told him, the bicycle was picked up in small villag
     	- that + object clause [indirect object]
       	- the bicycle was picked up in small village four hundred miles away
         	- the bicycle 
-        	- was picked up [predicate verb phrase][passive form of verb][past simple tense]
+        	- was picked up [verb phrase][passive form of verb][past simple tense]
         	- in small village four hundred miles away [place adverbial of predicate verb]
   - knowledge:
   	- pick + up + sth.
@@ -79,7 +79,7 @@ Five days ago, the policeman told him, the bicycle was picked up in small villag
 It is now being sent to his home by train.
   - simple sentence:
   	- It [subject]
-    - is being sent {prepositional objective phrase} [predicate verb phrase][passive form of verb][present continuous]
+    - is being sent {prepositional objective phrase} [verb phrase][passive form of verb][present continuous]
     - to his home [prepositional objective phrase]
   	- by train [adverbial of manner]
 
@@ -123,7 +123,7 @@ It was stolen/ˈstəʊlən/ twenty years ago when Dan was a boy of fifteen!
   	- main clause:
     	- It was stolen twenty years ago
       	- It [subject]
-        - was stolen [predicate verb phrase][passive form of verb][past simple tense]
+        - was stolen [verb phrase][passive form of verb][past simple tense]
       	- twenty years ago [time adverbial of predicate verb]
   	- subordinate clause:
     	- when Dan was a boy of fifteen!

@@ -18,7 +18,7 @@ Though people have often laughed at stories told by sea-men, it is now know that
     		- people have often laughed at stories told by sea-men
         	- people [subject]
         	- often [frequency adverbial]
-        	- have laughed at [predicate verb phrase][present perfect]
+        	- have laughed at [verb phrase][present perfect]
         	- stories told by sea-men [object]
           	- told by sea-men [attribute]
   	- main clause:
@@ -51,12 +51,12 @@ Occasionally, unusual creatures/ˈkriːtʃə(r)/ are washed/wɒʃt/ to the shore
   	- Occasionally
     - unusual creatures are washed to the shore
     	- unusual creatures [subject]
-    	- are washed [predicate verb phrase][passive form of verb]
+    	- are washed [verb phrase][passive form of verb]
     	- to the shore [subjective complement]
   	- but
   	- they are rarely caught out at sea.
     	- they [subject]
-    	- are caught [predicate verb phrase][passive form of verb]
+    	- are caught [verb phrase][passive form of verb]
     	- out at sea [subjective complement]
   - knowledge:
   	- catch + sb. + out

@@ -15,7 +15,7 @@ Busmen/ˈbʌsmən/ have decided/dɪˈsaɪdɪd/ to go on strike next week.
 The strike is due to begin on Tuesday/ˈtjuːzdeɪ/.
 - simple tense:
     - the strike [subject]
-    - is due to do [predicate verb phrase]
+    - is due to do [verb phrase]
     - to begin [object]
     - on Tuesday [time adverbial]
 - knowledge:
@@ -39,15 +39,15 @@ The busmen/ˈbʌsmən/ have stated/ˈsteɪtɪd/ that the strike will continue un
 - complex sentence:
     - The busmen have stated that + clause 
         - the busmen [subject]
-        - have stated [predicate verb phrase][present perfect tense]
+        - have stated [verb phrase][present perfect tense]
         - that + clause [object clause]
     - the strike will continue until + clause
         - the strike [subject]
-        - will continue [predicate verb phrase][simple future tense]
+        - will continue [verb phrase][simple future tense]
         - until + clause [adverbial clause]
     - general agreement is reached about pay and working condition
         - general agreement [subject]
-        - is reached about [predicate verb phrase][passive from of verb]
+        - is reached about [verb phrase][passive from of verb]
         - pay and working condition [object]
 - knowledge:
     - state + (that) 引导的宾语从句
@@ -63,7 +63,7 @@ Most people believe that the strike will last for at least a week.
         - that + object clause
     - the strike will last for a at least a week
         - the strike [subject]
-        - will last [predicate verb phrase][simple future tense]
+        - will last [verb phrase][simple future tense]
         - for at least a week [time adverbial]
 - knowledge:
     - believe + (that) 引导的宾语从句
@@ -76,7 +76,7 @@ Most people believe that the strike will last for at least a week.
 Many owners of private cars are going to offer 'free rides' to people on their way to work.
 - simple sentence:
     - Many owners of private cars [subject]
-    - are going to [predicate verb phrase]
+    - are going to [verb phrase]
     - to offer 'free rides' [to do]
     - to people on their way to work 
 - knowledge:
@@ -92,7 +92,7 @@ Many owners of private cars are going to offer 'free rides' to people on their w
 This will relieve/rɪˈliːv/ pressure/ˈpreʃə(r)/ on the trains to some extent/ɪkˈstent/.
 - simple tense:
     - This [subject]
-    - will relieve [predicate verb phrase][simple future tense]
+    - will relieve [verb phrase][simple future tense]
     - pressure [object]
     - on the train [adverbial]
     - to some extent [adverbial]
@@ -108,7 +108,7 @@ Meanwhile, a number of university students have volunteered/ˌvɒlənˈtɪə(r)/
 - complex sentence:
     - Meanwhile 与此同时
     - a number of university students [subject]
-    - have volunteered [predicate verb phrase]
+    - have volunteered [verb phrase]
     - to drive buses [adverbial of purpose]
     - while the strike lasts [time adverbial]
         - the strike [subject]
@@ -128,7 +128,7 @@ All the students are expert/ˈekspɜːt/ drivers, but before they drive any of t
         - any of the buses [object]
     - they will have to pass a special test
         - they [subject]
-        - will have to do [predicate verb phrase][simple future tense]
+        - will have to do [verb phrase][simple future tense]
         - to pass a special test [to do]
             - pass [verb]
             - a special test [object]
@@ -141,7 +141,7 @@ All the students are expert/ˈekspɜːt/ drivers, but before they drive any of t
 The students are going to take the test in two days' time. 
 - simple sentence:
     - the students [subject]
-    - are going to do [predicate verb phrase]
+    - are going to do [verb phrase]
     - to take the test in two days' time
         - take [verb]
         - the test [object]
@@ -156,7 +156,7 @@ Even so, people are going to find it difficult to get to work.
 - simple tense:
     - even so 即便如此
     - people [subject]
-    - are going to do [predicate verb phrase]
+    - are going to do [verb phrase]
     - to find it difficult go get to work [object]
         - find it difficult to do [verb phrase] 
         - to get to work [adverbial of purpose]
@@ -168,7 +168,7 @@ But so far, the public has expressed its gratitude/ˈɡrætɪtjuːd/ to the stud
 - simple sentence: 公众已经写信给新闻界表达了对学生们的感激之情
     - But so far 截止到目前为止 [time adverbial]
     - the public [subject]
-    - has expressed sth to sth [predicate verb phrase][present perfect tense]
+    - has expressed sth to sth [verb phrase][present perfect tense]
     - its gratitude [object]
     - to the students [purpose adverbial]
     - in letters to the Press [manner adverbial]  写信给新闻界
@@ -178,7 +178,7 @@ But so far, the public has expressed its gratitude/ˈɡrætɪtjuːd/ to the stud
 Only one or two people have objected/ˈɒbdʒɪkt; əbˈdʒekt/ that the students will drive too fast!
 - complex sentence:
     - only one or two people [subject]
-    - have objected [predicate verb phrase][present perfect tense]
+    - have objected [verb phrase][present perfect tense]
     - that + clause [object clause]
         - the students will drive too fast
             - the students [subject]

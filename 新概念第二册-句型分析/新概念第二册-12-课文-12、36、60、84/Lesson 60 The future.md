@@ -4,7 +4,7 @@ At a village fair/feə(r)/, I decided to visit a fortune-teller called Madam Bel
 - complex sentence:
     - at a village fair [place adverbial]
     - I [subject]
-    - decided to do [predicate verb phrase]
+    - decided to do [verb phrase]
     - to visit a fortune-teller called Madam Bellinsky
     - visit [verb]
     - a fortune-teller called Madam Bellinsky
@@ -17,7 +17,7 @@ I went into her tent and she told me to sit down.
 - compound sentence:
     - I went into her tent
         - I [subject]
-        - went into [predicate verb phrase]
+        - went into [verb phrase]
         - her tent [object]
     - and 
     - She told me to sit down
@@ -34,19 +34,19 @@ After I had given her some money, she looked into crystal/ˈkrɪstl/ ball/bɔːl
         - after + clause = adverbial clause of time
         - I had given her some money 
             - I [subject]
-            - had given [predicate verb phrase][past perfect tense]
+            - had given [verb phrase][past perfect tense]
             - her [indirect object]
             - some money [direct object]
     - she looked into crystal ball 
         - she [subject]
-        - looked into [predicate verb phrase]
+        - looked into [verb phrase]
         - crystal ball [object]
 
 '
 A relation/rɪˈleɪʃn/ of yours is coming to see you. 
 - simple sentence:
     - a relation of yours [subject]
-    - is coming to do [predicate verb phrase][present continuous tense]
+    - is coming to do [verb phrase][present continuous tense]
     - to see you
 - knowledge:
     - a + relation + of + sth.
@@ -58,7 +58,7 @@ She will be arriving this evening and intends to stay for a few days.
 - compound sentence:
     - she will be arriving this evening 
         - she [subject]
-        - will be arriving [predicate verb phrase][simple future continuous tense]
+        - will be arriving [verb phrase][simple future continuous tense]
         - this evening [time adverbial]
     - and 
     - she intends to stay for a few days.
@@ -95,7 +95,7 @@ A woman (whom) you know well will rush towards you.
 - complex sentence:
     - A woman will rush towards you
         - a woman [subject]
-        - will rush {propositional phrase} [predicate verb]
+        - will rush {propositional object phrase} [predicate verb]
         - towards you [object]
     - whom you know well 
         - you know well

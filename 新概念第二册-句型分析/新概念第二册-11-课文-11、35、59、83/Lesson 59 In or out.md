@@ -30,7 +30,7 @@ Every time he wanted to come/kʌm/ into the garden he would bark until someone o
       - every time [sth]
       - he wanted to come into the garden [attributive clause]
         - he [subject]
-        - wanted {to do} [predicate verb phrase]
+        - wanted {to do} [verb phrase]
         - to come into the garden [to do as object]
 - knowledge:
   - want + to + do. + (sth.)
@@ -50,7 +50,7 @@ As the neighbours complained/kəmˈpleɪn/ of the noise, my husband spent weeks 
   - main clause:
     - my husband spent weeks training him to press his paw on the latch to let himself in
       - my husband 
-      - spent sth. doing sth. [predicate verb phrase]
+      - spent sth. doing sth. [verb phrase]
       - week [subject]
       - training him to press his paw on the latch to let himself in [doing]
         - training sb to do sth [verb]
@@ -86,7 +86,7 @@ However, when I was going out shopping last week, I noticed him in the garden ne
       - when + clause
       - I was going out shopping last week
         - I [subject]
-        - was going out [predicate verb phrase][past continuous tense]
+        - was going out [verb phrase][past continuous tense]
         - shopping [accompany adverbial]
         - last week [time adverbial]
   - main clause:
@@ -108,13 +108,13 @@ This time he was barking so that someone would let him out!
       - this time [time adverbial]
       - he was barking
         - he [subject]
-        - was barking [predicate verb phrase][past continuous tense]
+        - was barking [verb phrase][past continuous tense]
   - subordinate clause:
     - so that someone would let him out
       - so that + adverbial of purpose
         - someone would let him out
           - someone [subject]
-          - would let sth out [predicate verb phrase]
+          - would let sth out [verb phrase]
           - him [object]
 - knowledge:
   - ● This time he was barking so that someone would let him out.
@@ -129,7 +129,7 @@ Since then, he has developed another bad habit.
   - since then 
   - he has developed another bad habit
     - he [subject]
-    - has developed [predicate verb phrase][presente perfect tense]
+    - has developed [verb phrase][presente perfect tense]
     - another bad habit [object]
 - knowledge:
   - since + then
@@ -153,7 +153,7 @@ As soon as he opens the gate from the outside, he comes into the garden and wait
     - he comes into the garden and waits until the gate shuts
       - he comes into the garden
         - he [subject]
-        - comes into [predicate verb phrase]
+        - comes into [verb phrase]
         - the garden [object]
       - and 
       - he waits until the gate shuts
@@ -216,7 +216,7 @@ Yesterday my husband removed the gate and Rex got so annoyed (that) we have not 
       - so annoyed [adjective]
       - that + we have not seen him since
         - we [subject]
-        - have not seen [predicate verb phrase] [present perfect tense]
+        - have not seen [verb phrase] [present perfect tense]
         - him [object]
         - since [adverbial]
 - knowledge:

@@ -10,7 +10,7 @@ At/ət/ present, they are visiting all parts of the country.
 - simple sentence:目前，他们正在访问全国各地。
     - At present [time adverbial]
     - they [subject]
-    - are visiting [predicate verb phrase][present continuous tense]
+    - are visiting [verb phrase][present continuous tense]
     - all parts of the country 
 
 They will be arriving here tomorrow.
@@ -64,7 +64,7 @@ As usual, the police will have a difficult time.
 - simple sentence:
     - as usual [phrase]
     - the police [subject]
-    - will have [predicate verb phrase][future simple tense]
+    - will have [verb phrase][future simple tense]
     - a difficult time [object]
 - knowledge:
     - a + difficult + time

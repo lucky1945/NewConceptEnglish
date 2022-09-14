@@ -3,8 +3,8 @@
 The Hubble/ˈhʌbl/ telescope/ˈtelɪskəʊp/ was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars.
 - simple sentence:
     - The Hubble telescope [subject]
-    - was launched  {propositional phrase} [verb phrase][passive][past simple tense]
-    - into space [propositional phrase object] 
+    - was launched  {propositional object phrase} [verb phrase][passive][past simple tense]
+    - into space [propositional object phrase object] 
     - by NASA [manner adverbial]
     - on April 20 1990 [time adverbial]
     - at a cost of cover a billion dollars [manner adverbial]

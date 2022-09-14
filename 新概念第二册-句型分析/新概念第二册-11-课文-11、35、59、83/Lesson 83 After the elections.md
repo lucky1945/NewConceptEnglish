@@ -11,12 +11,12 @@ He is now retiring from political/pəˈlɪtɪk(ə)l/ life and has gone abroad/ə
     - He is now retiring from political life 他现在正退出政界
         - He [subject]
         - now [adverbial]
-        - is retiring [predicate verb phrase][present continuous tense]
+        - is retiring [verb phrase][present continuous tense]
         - from political life [place adverbial]
     - and
     - He has gone abroad 
         - He [subject]
-        - has gone {名词性副词} [predicate verb phrase][present perfect tense]
+        - has gone {名词性副词} [verb phrase][present perfect tense]
         - abroad [object]
 - knowledge:
     - retire + from + sth.
@@ -27,14 +27,14 @@ He is now retiring from political/pəˈlɪtɪk(ə)l/ life and has gone abroad/ə
 My friend, Patrick, has always been a fanatical/fəˈnætɪkl/ opponent/əˈpəʊnənt/ of Mr.Lane's Radial continuous Party.
 - simple sentence:  
     - My friend [subject]
-    - has always been [predicate verb phrase][present perfect tense]
+    - has always been [verb phrase][present perfect tense]
     - a fanatical opponent of Mr.Lane's Radial continuous Party [object]
 
 After the elections, Patrick/ˈpætrɪk/ went to the former Prime Minister's house.
 - simple sentence:
     - after the elections [time adverbial]
     - Patrick [subject]
-    - went to [predicate verb phrase]
+    - went to [verb phrase]
     - the former Prime Minister's house [object]
 
 When he asked if Mr.Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.
@@ -50,7 +50,7 @@ When he asked if Mr.Lane lived there, the policeman on duty told him that since 
         - the policeman on duty told him that since his defeat, the ex-prim Minister had gone abroad.
             - the policeman on duty [subject]
                 - on duty [attributive]
-            - told sb that clause [predicate verb phrase]
+            - told sb that clause [verb phrase]
             - him [direct object]
             - that since his default, the ex-Prime Minister had gone abroad
                 - since his default [time adverbial]
@@ -76,7 +76,7 @@ The same policeman was just walking slowly past the entrance, when Patrick asked
     - main clause:
         - The same policeman was just walking slowly past the entrance
             - The same policeman [subject]
-            - was just walking slowly [predicate verb phrase][past continuous tense]
+            - was just walking slowly [verb phrase][past continuous tense]
             - past the entrance [adverbial of manner]
     - subordinate clause:
         - when Patrick asked the same question
@@ -139,12 +139,12 @@ This time, the policeman lost his temper.
         - in the elections [place adverbial]
     - He has retired from political life
         - He [subject]
-        - has retired from [predicate verb phrase][present perfect tense]
+        - has retired from [verb phrase][present perfect tense]
         - political life [place adverbial]
     - and
     - He has gone to live abroad 他到国外去住了
         - He [subject]
-        - has gone [predicate verb phrase]
+        - has gone [verb phrase]
         - to live abroad [adverbial of purpose]
 
 'I know' answered Patrick, 'but I love to hear you say it!'

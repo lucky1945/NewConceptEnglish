@@ -67,7 +67,7 @@ The vicar has been asked to have the tree cut down, but so far he has refused.
   - compound sentence:
   	- the vicar had been asked to have the tree cut down
     	- the vicar
-    	- had been asked {to do } [predicate verb phrase][passive form of verb][past perfect tense] 
+    	- had been asked {to do } [verb phrase][passive form of verb][past perfect tense] 
     	- to have the tree cut down [object][infinitive]
       	- have 
   	- but 
@@ -89,7 +89,7 @@ He has pointed out that the tree is a useful source of income, as tourists/ˈtʊ
     	- he has pointed out that the tree is useful source of income
       	- he has pointed out that + object clause
         	- he [subject]
-        	- has pointed out [predicate verb phrase][present tense]
+        	- has pointed out [verb phrase][present tense]
           - that + object clause
       	- tree is useful source of income
         	- tree [subject]
@@ -100,7 +100,7 @@ He has pointed out that the tree is a useful source of income, as tourists/ˈtʊ
       	- as + adverbial clause of time
       	- tourists have been coming from all parts of the country to see it
         	- tourists 
-        	- have been coming {prepositional object} [predicate verb phrase][present perfect continuous]
+        	- have been coming {prepositional object} [verb phrase][present perfect continuous]
         	- from all parts of the country [object]
         	- to see it [adverbial of purpose]
   - knowledge:
@@ -123,7 +123,7 @@ In spite of all that has been said, the tourists have been picking leaves and cu
   	- the tourists have been picking leaves and cutting their name on the tree-trunk
       - the tourists have been picking leaves
       	- the tourists 
-      	- have been picking [present perfect continuous][predicate verb phrase]
+      	- have been picking [present perfect continuous][verb phrase]
       	- leaves [object]
       - and
     	- the tourists have been cutting their name on the tree-trunk
@@ -142,7 +142,7 @@ So far, not one of them has been struck down by sudden death!
   	- so far [time adverbial]
   	- not one of them has been struck down by sudden death	
     	- not one of them [subject]
-    	- has been struck down [passive form verb][predicate verb phrase]
+    	- has been struck down [passive form verb][verb phrase]
     	- by sudden death
   - knowledge:
   	- so + far
