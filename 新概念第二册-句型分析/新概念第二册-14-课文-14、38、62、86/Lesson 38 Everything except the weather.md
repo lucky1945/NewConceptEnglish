@@ -25,8 +25,8 @@ He had often dreamed of retiring/rɪˈtaɪərɪŋ/ in England and had planned to
     - and
     - He had planned to settled down in the country
         - He [subject]
-        - had planned to [verb phrase][past perfect tense]
-        - settled down in the country [object]
+        - had planned to do [verb phrase][past perfect tense]
+        - settle down in the country [object]
 - knowledge:
     - dream + of + doing.
         v. 梦想...(做某事), 渴望...(做某事)
@@ -36,7 +36,7 @@ He had often dreamed of retiring/rɪˈtaɪərɪŋ/ in England and had planned to
         prep. (in the country)在乡下
         prep. (in one's/this/that country)在...国家
 
-He had no sooner/suːn/ returned than he bough a house and went to live there.
+He had no sooner/suːn/ returned than he bought a house and went to live there.
 - complex sentence: 他一回来就买了一栋房子住了进去。 
     - main clause:
         - He had returned 

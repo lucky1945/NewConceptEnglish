@@ -202,6 +202,7 @@ Before long, the noise dropped completed and the boat began to drift gently/ˈd�
         vi. 漂流...
     - begin + to + do. + (sth.)
         v. 开始...(做某事)
+        
 ---------------------------------------------------------------
 
 - came away 脱离、逃离
