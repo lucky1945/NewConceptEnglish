@@ -1,8 +1,5 @@
-# 
-
-## First listen and then answer the question
-Why did Jenny want to leave the wedding reception?
 ```
+
 Jeremy Hampden has a large circle of friends and is very popular at parties.
 
 Everybody admires him for his great sense of humour/ˈhjuːmə(r)/ - everybody, that is, 
@@ -26,7 +23,6 @@ On they way home, he asked Jenny if she had enjoyed the speech.
 To his surprise, she said she hadn't.
 
 Jeremy asked her why this was so and she told him that she did not like to see so many people laughting at him.
-```
 
 - a large circle of friends 交际很广
 - Everybody admire him for his great sense of humour.
@@ -78,4 +74,6 @@ Jeremy asked her why this was so and she told him that she did not like to see s
          - He was astonish at what he found
    - 形容词+宾语从句
       - They were also quite sure that a cigarette end did not start the fire. 
-## Summary writing
+
+
+```
