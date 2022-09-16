@@ -1,10 +1,5 @@
-# 
-
-## First listen and then answer the question
-Was Mrs.Rumbold a good companion at dinner?
-
-- No. she isn't
 ```
+
 Last week at a dinner party, the hostess/ˈhəʊstəs/ asked/ɑ:skt/ me to sit next to Mrs.Rumbload.
 
 Mrs.Rumbold was large, unsimiling lady in a tight black dress.
@@ -13,7 +8,7 @@ She did not even look up when I took my seat beside her.
 
 Her eyes were fixed on her plate and in a short time, she was busy eating.
 
-I tried to make converstaion.
+I tried to make conversation.
 
 'A new play is coming to "The Glboe/ɡləʊb/" soon', I said. 'Will you be seeing it?'
 
@@ -31,17 +26,16 @@ In despair/dɪˈspeə(r)/, I asked her whether she was enjoying her dinner.
 
 'Young man', she answered, 'if you ate/et/ more and talked less, we would both enjoy our dinner!'.
 
-
-```
 ## New words and expression
 
 - hostess
    - ess女性后缀
 - fix:
    - 凝视
-- dispair n. 绝望。
+- despair n. 绝望。
    - v 放弃希望
-      - dispair of 
+      - despair of 
+
 ## Notes on the text
 
 - next to 
@@ -56,7 +50,9 @@ In despair/dɪˈspeə(r)/, I asked her whether she was enjoying her dinner.
 - take a seat 坐下
    - Please take a seat
 - fix one's eyes o
-- make converstaion
+- make conversation
    - 闲谈、聊天
+
+```
 
 ![1647071291080-a52dbc1c-4132-4138-ac87-4b17111afde5.gif](https://cdn.nlark.com/yuque/0/2022/gif/100538/1649937464934-f1696554-dd6f-41f3-a6d5-0292e63c560e.gif#clientId=ub2258631-5880-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=u21b03df5&margin=%5Bobject%20Object%5D&name=1647071291080-a52dbc1c-4132-4138-ac87-4b17111afde5.gif&originHeight=720&originWidth=720&originalType=binary&ratio=1&rotation=0&showTitle=false&size=93561&status=done&style=none&taskId=u7a8f6c63-fc6a-470c-b6e6-8f8fb1dabee&title=)
