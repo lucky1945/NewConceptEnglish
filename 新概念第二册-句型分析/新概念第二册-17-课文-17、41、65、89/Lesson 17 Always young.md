@@ -30,7 +30,7 @@ In spite/spaɪt/ of this, she often appears/əˈpɪə(r)/ on the stage as a youn
     - in spite of 尽管
 
 Jennifer will have to take part in a new play soon.
-- simple sentence:
+- simple sentence: 詹妮弗很快就要参加一个新剧的演出了。
     - Jennifer [subject]
     - will have to do [future simple tense][verb phrase]
     - to take part in a new play soon
@@ -44,7 +44,7 @@ Jennifer will have to take part in a new play soon.
         v. 参与..., 参加...
 
 This time, she will be a girl of seventeen.
-- complex sentence:
+- complex sentence: 这一次，她将是一个17岁的女孩。
     - This time
     - she will be a girl of seventeen.
         - she [subject]
@@ -98,6 +98,8 @@ If anyone ever asks/ɑːsks/ her how old she is, she always answers, 'Darling, i
     - It + is + terrible + (for + sb.) + to + do. + (sth.)
     - grown + up
         adj. 成年的, 适于成年人的
+
+
 - must + be.
     这是一个动词短语。
         表示义务、意图或建议
@@ -122,10 +124,11 @@ If anyone ever asks/ɑːsks/ her how old she is, she always answers, 'Darling, i
 
         疑问句回复
             在回答must引起的一般疑问句时，如果需要使用否定的答复，可用don't have to或needn't(表示不必)，但不能用mustn't 。
+
 - must、have to 有何区别
     must表示主观上认为必须做某事，侧重于个人意志和主观上的必要。
     have to表示客观上要求不得不做某事，侧重于客观上的必要，可用于现在时、过去时和将来时。
-    
+
     I know I must study hard. 我知道我必须努力学习。
     He said they must work hard. 他说他们必须努力工作。
     My brother was very ill, so I had to call the doctor in the mid-night. 我弟弟病得厉害，我只得半夜里把医生请来。
