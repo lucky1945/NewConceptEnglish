@@ -4,8 +4,8 @@ The secretary/ˈsekrətri/ told me the Mr.Harmsworth/ˈhɑːmzwɜːθ/ would/wʊ
 - simple sentence:
     - the secretary [subject]
     - told [verb][past]
-    - me [direct object]
-    - the Mr.Harmsworth would see me [indirect object]
+    - me [indirect object]
+    - the Mr.Harmsworth would see me [direct object]
         - the Mr.Harmsworth 
         - would see [verb]
         - me [object]
@@ -16,7 +16,7 @@ I felt very nervous when I went into his office.
         - I [subject]
         - felt [link-verb]
         - very nervous [predicative][adjective]
-    - when I went into his office
+    - when I went into his office 
         - when + clause
         - I [subject]
         - went into [verb phrase]
@@ -28,7 +28,7 @@ He did not look up from his desk/desk/ when I entered /ˈentəd/.
         - He [subject]
         - did not look up [verb phrase]
         - from his desk [place adverbial]
-    - when I entered 
+    - when I entered [time adverbial clause]
         - when + clause
         - I [subject]
         - entered [verb]

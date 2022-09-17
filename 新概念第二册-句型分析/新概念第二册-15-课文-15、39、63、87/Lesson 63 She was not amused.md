@@ -36,8 +36,8 @@ Recently, one of Jeremy's closest friends asked him to make a speech at a weddin
    - Recently 
    - one of Jeremy's closest friends [subject
    - asked sb to do sth [verb phrase]
-   - him [indirect object]
-   - to make a speech at a wedding reception
+   - him [direct object]
+   - to make a speech at a wedding reception [to do][complements object]
       - make [verb]
       - a speech [object]
       - at a wedding reception [place adverbial]
@@ -121,7 +121,7 @@ Jeremy was a little disappointed by this but he did as his daughter asked.
    - but
    - he did as his daughter asked.
       - he did 
-      - as + clause 
+      - as + clause [manner adverbial clause]
          - his daughter asked
             - his daughter [subject]
             - asked [verb]
