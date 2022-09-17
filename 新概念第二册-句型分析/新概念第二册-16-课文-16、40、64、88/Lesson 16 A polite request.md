@@ -19,11 +19,11 @@ You will be very lucky if he lets you go without ticket.
 - complex sentence:
     - if he lets you go without ticket 
         - if + clause 
-            - he lets you go without ticket 
-                - he [subject]
-                - let [verb]
-                - you [object]
-                - go without ticket [complement object]
+        - he lets you go without ticket 
+            - he [subject]
+            - let [verb]
+            - you [object]
+            - go without ticket [complement object]
     - you will be very luck
         - you [subject]
         - will be [be verb][future simple tense]
