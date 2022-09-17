@@ -49,6 +49,9 @@ If explosives/ik'spləusivz/ are used, vibrations/vaɪˈbreɪʃ(ə)nz/ will case
         - will cause [future simple tense][verb phrase]
         - the roof of the mine [object]
         - to collapse [purpose adverbial]
+- knowledge:
+    - 与将来事实可能相反的条件或结果
+        - If + 主语 + 动词原形， 主语 + will + 动词原形
 
 Rescue workers are therefore drilling/drɪlɪŋ/ a hole on the north side of the mine.
 - simple sentence: 因此，救援人员正在矿井的北侧钻孔。
@@ -191,7 +194,9 @@ If they knew how difficult it was to drill through the hard rock, they would los
 - knowledge:
     - be. + to + do. + (sth.)
         v. 打算...(做某事); 必须...; 应该...; 如何...(用在疑问句中)
-
+    - 与现在事实相反的条件或结果
+        - If + 主语 + 动词的过去式， 主语 + should/would/could/might + 动词原形
+        
 - rescue operations 营救工作
 
 - they still have a long  way to go
