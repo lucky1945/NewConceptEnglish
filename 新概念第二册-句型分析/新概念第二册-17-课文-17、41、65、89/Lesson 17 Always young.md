@@ -132,4 +132,7 @@ If anyone ever asks/ɑːsks/ her how old she is, she always answers, 'Darling, i
     I know I must study hard. 我知道我必须努力学习。
     He said they must work hard. 他说他们必须努力工作。
     My brother was very ill, so I had to call the doctor in the mid-night. 我弟弟病得厉害，我只得半夜里把医生请来。
+
+- must
+    aux. （表示必要或很重要）必须；（用于表示肯定推测）一定，谅必；（提出建议）应该；（用于表示意图）一定要，坚持要；（用于表示同情）必定；（用于问句中表示生气）非要 ；（用于感叹句，表示惊讶或震惊）一定是
 ```

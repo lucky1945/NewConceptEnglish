@@ -6,6 +6,7 @@
         - you [subject]
         - call [verb]
         - that a hat [object]
+            - a hat [appositive]
     - I said to my wife.
         - I [subject]
         - said [verb]
@@ -180,14 +181,15 @@ My wife was wearing a hat that looked like lighthouse!
 
 ## Notes on the text
 
-- We mustn't buy things we don't need.
-   - need是普通动词，当需要讲。
+- need:
+    v.需要；（表示应该或不得不做）有必要；<古>需要
+    n.需要，必须； 特别需要，迫切要求；需要的事物，欲望；（食物、钱或生活来源的）短缺，缺乏
+    aux.必要（用于劝告或建议）
 
 - You needn't have said that
    - 虚拟 - needn't have done 表示本不用做，但实际上做了。
    - 虚拟 - need have done 表示本可以做，但是没做。
    - 真实 - needn't do  不需要做，就真的不做。
-
 
 - A woman can't have too many hats.
    - A man can never have too many ties.
