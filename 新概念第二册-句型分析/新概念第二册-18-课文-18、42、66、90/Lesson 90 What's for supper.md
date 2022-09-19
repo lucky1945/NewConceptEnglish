@@ -1,6 +1,6 @@
 ```
 
-Fish and chips/tʃɪps/ has always been a favourite/ˈfeɪvərɪt/ dish in Britain/ˈbrɪt(ə)n/, but as the oceans/'əʊʃnz/ have been overfished/ˌəʊvəˈfɪʃ/, fish has become and more expensive.
+Fish and chips/tʃɪps/ has always been a favorite/ˈfeɪvərɪt/ dish in Britain/ˈbrɪt(ə)n/, but as the oceans/'əʊʃnz/ have been overfishing/ˌəʊvəˈfɪʃ/, fish has become and more expensive.
 
 So it comes as a surprise to learn that giant/ˈdʒaɪənt/ fish are terrifying/ˈterɪfaɪɪŋ/ the divers on North Sea oil rigs/ɔɪl rɪɡz/.
 
@@ -28,28 +28,28 @@ Who eats who?
 
 #################################################################################
 
+- supper 
+    - 晚餐（尤指在家吃的非正式晚餐）；夜宵，宵夜；<美>（尤指为慈善事业筹款举办的）晚餐会；<苏格兰>一种薯片伴特定事物的餐食
 - fish and chips 
 - be frightened out of their wits 被吓得惊慌失措
-- favourite eating varieties/vəˈraɪətiz/ 深受人们喜爱的食用品种
 - as a result 结果是
 - variety
-  - a variety of colors 各种颜色
-  - a variety of reasons 种种原因
+    - a variety of colors 各种颜色
+    - a variety of reasons 种种原因
 - as conj. 由于
 - become more and more + adj. 变得越来越
 - It comes as a surprise to do sth 做什么很让人吃惊
-  - So it comes as a surprise to learn that .....
-  - 因此，听说....，的确很让人吃惊。
-  - as （被看）作……，（被描绘）为……；作为，当
+    - So it comes as a surprise to learn that .....
+    - 因此，听说....，的确很让人吃惊。
+    - as （被看）作……，（被描绘）为……；作为，当
 - out of one‘s wits 失去理智，惊慌失措
 - giant fish bumping into them as they work.
-  - bumping into them as they work 做 giant fish 的后置定语
-  - bump into 碰上、撞上
+    - bumping into them as they work 做 giant fish 的后置定语
+    - bump into 碰上、撞上
 - protect from / against 保护...以防
 - not ... but ... 不是...而是...
   - It's not cat but a dog.
 - cause ... to do sth ..造成、促成...做某事
 - in the absence of 缺乏....
  
-
 ```
