@@ -7,8 +7,8 @@ As we had had a long walk/wɔːk/ through one of the markets of Old Delhi/ˈdeli
         - we [subject]
         - had had [verb phrase]
         - a long walk [object]
-        - through one of the markets of Old Delhi [adverbial]
-    - we stopped at a square to have a rest.
+        - through one of the markets of Old Delhi [propositional object as adverbial][adverbial]
+    - we stopped at a square/skweə(r)/ to have a rest.
         - we [subject]
         - stopped [verb]
         - at a square [place adverbial]
@@ -25,7 +25,8 @@ After a time, we noticed a snake/sneɪk/ charmer/ˈtʃɑːmə(r)/ with two large
     - we noticed a snake charmer with two large baskets at the other side of the square
         - we [subject]
         - noticed [verb]
-        - a snake charmer with two large baskets [object]
+        - a snake charmer [object]
+        - with two large baskets [adverbial]
         - at the other side of the square [place adverbial]
     - so we went to have a look at him.
         - so 
@@ -94,7 +95,7 @@ We were very much surprised when the snake charmer suddenly began to play jazz a
         - [subject]
         - were [be verb]
         - very much surprised [predicative][adjective]
-    - when the snake charmer suddenly began to play jazz and modern pop songs.
+    - when the snake charmer suddenly began to play jazz and modern pop songs. [time adverbial clause]
         - when + clause
         - the snake charmer [subject]
         - suddenly [adverb]
@@ -115,7 +116,7 @@ The snake, however, continued to 'dance'/dɑːns/ slowly.
     - continue doing 一直做（同一件事）
     - continue to do 继续做另一件事
 
-It obviously/ˈɒbviəsli/ coud not tell the difference between Indian/ˈɪndiən/ music and jazz!
+It obviously/ˈɒbviəsli/ could not tell the difference between Indian/ˈɪndiən/ music and jazz!
 - simple sentence:
     - It obviously could not tell the difference between Indian music and jazz!
         - obviously [adverb]

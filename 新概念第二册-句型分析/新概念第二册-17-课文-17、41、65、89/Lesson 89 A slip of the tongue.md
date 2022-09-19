@@ -16,7 +16,7 @@ People will do anything to see a free show - even if it is a bad one.
     - even if 及时，引导让步状语从句
 
 When the news got round that a comedy/ˈkɒmədi/ show would be presented/prɪˈzentɪd/ at our local cinema by the P. and U. Bird Seed Company, we all rushed to see it.
-- complex sentence:
+- complex sentence:当P. U.鸟食公司将在我们当地电影院上演一场喜剧演出的消息传开时，我们都赶忙去看了。
     - When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company
         - when + clause
         - the news [subject]
@@ -78,10 +78,10 @@ Those who failed to get in need not have felt disappointed, as many of the artis
     - as many of the artistes who should have appeared did not come.
         - as + clause
         - many of the artistes who should have appeared did not come.
-            - many of the artistes did not come 
+            - many of the artistes did not come [main clause]
                 - many of the artistes [subject]
                 - did not come [verb phrase]
-            - who should have appeared 
+            - who should have appeared [attributive clause => the artistes]
                 - who [subject]
                 - should have appeared [verb phrase]
 - knowledge:
@@ -150,6 +150,8 @@ We all know what the poor man should have said, but what he actually said was:
     - what he actually said was 
 
 'This is the Poo and Ee Seed Bird Company. Good ladies, evening and gentlemen!'
+
+###############################################################################################
 
 - a slip of the tongue 失言
 - do anything to see a free show 

@@ -34,7 +34,7 @@
       - 一个是普通动词need；
             - need sth
             - need to do 
-            - need sb todo
+            - need sb to do
             - need doing 需要被做某事
                 - she need some time.
                 - he needs to have a rest
@@ -168,6 +168,8 @@ My wife was wearing a hat that looked like lighthouse!
         - looked like [verb phrase]
         - lighthouse [object]
         
+###############################################################################################
+
 ## New words and expressions
 
 - hole/həʊl/  n. 孔
