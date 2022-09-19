@@ -95,6 +95,6 @@ In a few minutes he returned with my bag and gave it back to me.
         - my dog [subject]
         - had taken sth into sth [verb phrase]
         - it [object]
-        - the garden [object]
+        - the garden [propositional object]
 
 ```
