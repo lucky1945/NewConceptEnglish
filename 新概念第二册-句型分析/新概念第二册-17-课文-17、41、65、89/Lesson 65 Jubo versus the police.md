@@ -98,7 +98,7 @@ A policeman approached/əˈprəʊtʃt/ Jimmy and told him he ought to have gone 
         举起；阻挡；拦截（hold up 的现在分词形式）
 
 Though Jimmy agreed to go at once, Jumbo/ˈdʒʌmbəʊ/ refused to move.
-- simple sentence:
+- simple sentence: 尽管吉米同意马上走，江伯却不肯动。
     - Though 
     - Jimmy agreed to go at once
         - Jimmy [subject]
@@ -114,7 +114,9 @@ Though Jimmy agreed to go at once, Jumbo/ˈdʒʌmbəʊ/ refused to move.
         v. 同意...(做某事)
     - at + once
         adv. 立刻
-
+    - go
+        vi. 去, 走; 达到; 运转; 查阅; 消失; 结束; 放弃; 花费, 流传; 趋于; 打算; 剩下
+        
 Fifteen policemen had to push very hard to get him off the main street.
 - simple sentence: 15个警察不得不使劲把他推离主街。
     - fifteen policeman [subject]
