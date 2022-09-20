@@ -56,10 +56,21 @@ Oil rigs have to be repaired frequently and divers, who often have to work in da
             - be repaired
         - frequently [adverbial]
     - divers have been frightened out of their wits by giant fish bumping into them as they work.
-        - 
+        - drivers [subject]
+        - have been frightened out of [present perfect tense][passive]
+        - their wits [object]
+        - by giant fish bumping into them [manner adverbial]
+        - as they work [time adverbial]
     - who often have to work in darkness a hundred feet under water, 
+        - who [subject]
+        - often [frequently adverb]
+        - have to do [verb phrase]
+        - to work [to do]
+        - in darkness a hundred feet under water [place adverbial]
 - knowledge:
     - be frightened out of their wits 被吓得惊慌失措
+    - bump + into + sth.
+        v. 偶然遇见..., 碰巧遇到...
 
 Now they have had special cages/ˈkeɪdʒɪz/ made to protect them from these monsters/'mɒnstəz/.
 - simple sentence:
@@ -67,14 +78,14 @@ Now they have had special cages/ˈkeɪdʒɪz/ made to protect them from these mo
     - they [subject]
     - have had [verb phrase][present perfect tense]
     - special cages made to protect them from these monsters [object]
-        - made to protect them from these monsters [attributive]
+        - made to protect them from these monsters [attributive => special cages]
 - knowledge:
     - make + sth.① + to + do. + (sth.)
         v. 驱使...以...; 强制...来...; 为了...制造...
     - protect + sth.① + from + sth.②
         v. 保护...免受...
 
-The fish are not sharks/ʃɑːks/ or killer whales/weɪlz/, but favourite eating varieties/vəˈraɪətiz/ like cod/kɒd/ and skate/skeɪt/ which grow to unnatural/ʌnˈnætʃrəl/ size, sometimes as twelve feet in length.
+The fish are not sharks/ʃɑːks/ or killer whales/weɪlz/, but favorite eating varieties/vəˈraɪətiz/ like cod/kɒd/ and skate/skeɪt/ which grow to unnatural/ʌnˈnætʃrəl/ size, sometimes as twelve feet in length.
 - compound sentence:
     - The fish are not sharks or killer whales
         - the fish [subject]

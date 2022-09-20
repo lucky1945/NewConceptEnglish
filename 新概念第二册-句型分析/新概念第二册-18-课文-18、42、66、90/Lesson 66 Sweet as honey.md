@@ -8,7 +8,7 @@ In 1963 a Lancaster/ˈlæŋkəstə(r)/ bomber/ˈbɒmə(r)/ crashed on Wallis Isl
     - on Wallis Island [place adverbial]
     - a remote place in the South Pacific, a long way west of Samoa [appositive]
 
-The plane/pleɪn/ wasn't too badly damaged, but over the years, the crash was forgotten and the wreck/rek/ remained undisturbed/ˌʌndɪˈstɜːbd//not moved or touched by anyone or anything/.
+The plane/pleɪn/ wasn't too badly damaged, but over the years, the crash was forgotten and the wreck/rek/ remained undisturbed
 - compound sentence:
     - The plane wasn't too badly damaged 飞机损坏得不太严重
         - the plane [subject]
