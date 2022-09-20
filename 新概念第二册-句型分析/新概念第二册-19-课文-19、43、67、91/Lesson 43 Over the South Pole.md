@@ -2,7 +2,7 @@
 
 In 1929, three years after his flight/flaɪt/ over the North Pole/pəʊl/, the American explorer/ɪkˈsplɔːrə(r)/, R.E.Byrd/bɜːd/, successfully flew/fluː/ over the South Pole/pəʊl/ for the first time.
 
-Though/ðəʊ/, at frist, Byrd and his men were able to take great many photographs of the mountains that lay below, they soon ran into serious trouble.
+Though/ðəʊ/, at first, Byrd and his men were able to take great many photographs of the mountains that lay below, they soon ran into serious trouble.
 
 At one point, it seemed certain that their plane would crash.
 
@@ -29,18 +29,18 @@ The aircraft was able to fly over the endless white plains without difficulty.
    - 躺、位于、处于
 - lie lied lied
    - 说谎
-## Notes on the text
 
+## Notes on the text
 - the North Pole
 - the South Pole
 - be able to / can
    - 相同点：都表示能力，能够
    - 不同点：
-      - 表示已经成果做到的，用was/were aable to, 不用could
+      - 表示已经成果做到的，用was/were able to, 不用could
       - can可以表示猜测，允许
 - that lay below 下面的山，定语从句
 - at first
-- a great many photograhps
+- a great many photographs
 - they soon ran into serious trouble.
    - run into the trouble.
 - at one point.
