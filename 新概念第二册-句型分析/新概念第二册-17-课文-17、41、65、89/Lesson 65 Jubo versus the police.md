@@ -180,7 +180,7 @@ Of course, we should arrest him, but as/conj 因为/ he has a good record, we sh
     - let + sth. + off
         vt. 让...下[车/船/飞机]; 饶恕..., 宽恕...; 释放...; 让...免受[指责/惩罚/责罚]; 允   许...[休息/放假]; 排放..., 发出..., 放射...; 引爆..., 起爆...; 发射...; 开...[枪/火]
 
---------------------------------------------------------------
+###############################################################################################
 
 - Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls.
    - dressed up 和 accompanied by 做状语，说明伴随状态
