@@ -90,7 +90,7 @@ He noticed that a river of liquid/ˈlɪkwɪd/ rock/rɒk/ was coming towards him.
         n. 液体的..., 透明的..., 明亮的..., 流动的..., 易变的...
 
 It threatened/ˈθretn/ to surround him completely, but Tazieff managed to escape/ɪˈskeɪp/ just in time.
-- compound sentence:
+- compound sentence: 眼看就要将他围住，但是他还是设法及时逃离了。
     - It threatened to surround him completely
         - it [subject]
         - threatened to do [verb phrase]
@@ -114,7 +114,10 @@ He waited until the volcano became/bɪˈkeɪm/ quiet and he was able to return t
     - He waited until the volcano became quiet 
         - he [subject]
         - waited [verb]
-        - until the volcano became quiet [time adverbial]
+        - until the volcano became quiet [time adverbial clause]
+            - the volcano [subject]
+            - became [link verb]
+            - quiet [predicative][adjective]
     - and
     - He was able to return two days later
         - he [subject]
